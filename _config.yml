@@ -82,9 +82,9 @@ author:
   name             : "Jack Lucas"
   avatar           : "profile.png"
   bio              : "Political Scientist"
-  location         : "University of Calgary"
-  employer         :
-  home             : "https://lucasjacklucas.github.io"
+  location         : "Calgary"
+  employer         : "University of Calgary"
+  home.button      : "https://lucasjacklucas.github.io"
   googlescholar    : "https://scholar.google.com/citations?user=ydigUSgAAAAJ&hl=en"
   email            : "jack.lucas@ucalgary.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
