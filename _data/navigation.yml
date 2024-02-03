@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Books"
-    url: /publications/
+    url: /books/
 
   - title: "Articles"
-    url: /publications/
+    url: /articles/
 
   - title: "Working Papers"
     url: /workingpapers/    
