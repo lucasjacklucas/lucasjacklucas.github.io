@@ -84,7 +84,7 @@ author:
   bio              : "Political Scientist"
   location         : 
   employer         : 
-  home.button      : "https://lucasjacklucas.github.io"
+  homebutton       : "https://lucasjacklucas.github.io"
   googlescholar    : "https://scholar.google.com/citations?user=ydigUSgAAAAJ&hl=en"
   email            : "jack.lucas@ucalgary.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
