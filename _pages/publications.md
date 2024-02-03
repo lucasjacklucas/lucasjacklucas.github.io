@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Testing Testing. Can I add something here? 
+Testing Testing. Can I add something here? This is a test. 
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
