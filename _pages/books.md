@@ -23,7 +23,7 @@ A lively and accessible study, Ideology in Canadian Municipal Politics will appe
 ### Big City Elections in Canada
 2021, [University of Toronto Press](https://utorontopress.com/9781487528560/big-city-elections-in-canada/). 
 Co-Edited with R. Michael McGregor. 
-(https://toronto-university-distribution-ca.imgix.net/covers/9781487528560.jpg)
+<img src="https://toronto-university-distribution-ca.imgix.net/covers/9781487528560.jpg" alt="BigCity" title="BigCity" width="150" height="100"/> 
 
 Local elections are an increasingly popular area of research among scholars of Canadian political behaviour, offering invaluable insights into the attitudes and motivations of Canadian electors. The Canadian Municipal Election Study (CMES) has collected unparalleled individual-level survey data in eight major Canadian municipal elections: Vancouver, Calgary, Winnipeg, London, Mississauga, Toronto, Montreal, and Quebec City. These elections, which took place in 2017 and 2018, were high-profile, contentious, and often surprising, featuring mayoral defeats, record-breaking turnouts, provincial-municipal tensions, and the first ranked-ballot election in Canada in decades.
 
@@ -31,7 +31,7 @@ Combining unprecedented individual-level survey data from the CMES with local ex
 
 ### Fields of Authority
 2016, [University of Toronto Press](https://utorontopress.com/9781487500184/fields-of-authority/).
-(https://toronto-university-distribution-ca.imgix.net/covers/9781487500184.jpg)
+<img src="https://toronto-university-distribution-ca.imgix.net/covers/9781487500184.jpg" alt="Fields" title="Fields" width="150" height="100"/> 
 
 Everywhere we turn in Canadian local politics – from policing to transit, education to public health, planning to utilities – we encounter a peculiar institutional animal: the special purpose body. These “ABCs” of local government –  library boards, school boards, transit authorities, and many others – provide vital public services, spend large sums of public money, and raise important questions about local democratic accountability.
 
