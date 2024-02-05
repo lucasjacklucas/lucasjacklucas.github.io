@@ -13,6 +13,7 @@ author_profile: true
 
 ### Ideology in Canadian Municipal Politics
 Forthcoming (April 2024), [University of Toronto Press](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/). 
+(https://toronto-university-distribution-ca.imgix.net/covers/9781487553692.jpg?auto=format&w=260&dpr=2&q=20)
 
 One of the most peculiar features of municipal politics in Canada is how frequently local politicians, activists, and scholars disagree about how to describe the municipal arena. For some, municipal politics is distinct from other levels of government, a world of non-ideological elections, pragmatic and technical policy-making, and issue-by-issue policy coalitions. Others argue that municipal politics is similar to politics at other scales, with persistent axes of political disagreement and a recognizable "left" and "right." This recurring debate features prominently in municipal election campaigns across Canada.
 
@@ -23,6 +24,7 @@ A lively and accessible study, Ideology in Canadian Municipal Politics will appe
 ### Big City Elections in Canada
 2021, [University of Toronto Press](https://utorontopress.com/9781487528560/big-city-elections-in-canada/). 
 Co-Edited with R. Michael McGregor. 
+(https://toronto-university-distribution-ca.imgix.net/covers/9781487528560.jpg?auto=format&w=260&dpr=2&q=20)
 
 Local elections are an increasingly popular area of research among scholars of Canadian political behaviour, offering invaluable insights into the attitudes and motivations of Canadian electors. The Canadian Municipal Election Study (CMES) has collected unparalleled individual-level survey data in eight major Canadian municipal elections: Vancouver, Calgary, Winnipeg, London, Mississauga, Toronto, Montreal, and Quebec City. These elections, which took place in 2017 and 2018, were high-profile, contentious, and often surprising, featuring mayoral defeats, record-breaking turnouts, provincial-municipal tensions, and the first ranked-ballot election in Canada in decades.
 
@@ -30,16 +32,8 @@ Combining unprecedented individual-level survey data from the CMES with local ex
 
 ### Fields of Authority
 2016, [University of Toronto Press](https://utorontopress.com/9781487500184/fields-of-authority/).
+(https://toronto-university-distribution-ca.imgix.net/covers/9781487500184.jpg?auto=format&w=260&dpr=2&q=20)
 
 Everywhere we turn in Canadian local politics – from policing to transit, education to public health, planning to utilities – we encounter a peculiar institutional animal: the special purpose body. These “ABCs” of local government –  library boards, school boards, transit authorities, and many others – provide vital public services, spend large sums of public money, and raise important questions about local democratic accountability.
 
 In Fields of Authority, Jack Lucas provides the first systematic exploration of local special purpose bodies in Ontario. Drawing on extensive research in local and provincial archives, Lucas uses a “policy fields” approach to explain how these local bodies in Ontario have developed from the nineteenth century to the present. A lively and accessible study, Fields of Authority will appeal to readers interested in Canadian political history, urban politics, and urban public policy.
-
-
-
-- Lucas, Jack. Forthcoming. _[Ideology in Canadian Municipal Politics](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/#generate-pdf)._ Toronto: University of Toronto Press.
-- Lucas, Jack. 2016. [_Fields of Authority: Special Purpose Governance in Ontario, 1815-2015_](https://utorontopress.com/ca/fields-of-authority-3). Toronto: University of Toronto Press. // [Data and replication files](https://doi.org/10.5683/SP2/LPAFOO)
-- Lucas, Jack. 2015. "[Local Governance and the Local Political Career: A Sample Dataset.](http://jacklucas.pennyjar.ca/2015cpa.pdf)" _Canadian Public Administration_ 58(4): 605-617. // [Data and replication files](https://doi.org/10.5683/SP2/QBNPEH)
-- Lucas, Jack. 2015. "[How Ontario Hydro Went Local: The Creation of Rural Power Districts and the Central Ontario System.](https://www.erudit.org/en/journals/scientia/2014-v37-n1-2-scientia01880/1030640ar.pdf)" _Scientia Canadensis_ 37(1-2): 59-76. 
-- Lucas, Jack. 2013. "[Berlin, Ontario in the Age of the ABC.](https://www.erudit.org/en/journals/uhr/2013-v41-n2-uhr0557/1015378ar/)" _Urban History Review_ 41(2): 19-42. 
-- Lucas, Jack. 2013. "[A Century of Political Science in Canada.](https://www.utpjournals.press/doi/abs/10.3138/jcs.47.2.89)" _Journal of Canadian Studies_ 47(2): 89-118. [paper]
