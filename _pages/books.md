@@ -13,7 +13,7 @@ author_profile: true
 
 ### Ideology in Canadian Municipal Politics
 Forthcoming (April 2024), [University of Toronto Press](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/). 
-(https://toronto-university-distribution-ca.imgix.net/covers/9781487553692.jpg?auto=format&w=260&dpr=2&q=20)
+(https://toronto-university-distribution-ca.imgix.net/covers/9781487553692.jpg)
 
 One of the most peculiar features of municipal politics in Canada is how frequently local politicians, activists, and scholars disagree about how to describe the municipal arena. For some, municipal politics is distinct from other levels of government, a world of non-ideological elections, pragmatic and technical policy-making, and issue-by-issue policy coalitions. Others argue that municipal politics is similar to politics at other scales, with persistent axes of political disagreement and a recognizable "left" and "right." This recurring debate features prominently in municipal election campaigns across Canada.
 
@@ -24,7 +24,7 @@ A lively and accessible study, Ideology in Canadian Municipal Politics will appe
 ### Big City Elections in Canada
 2021, [University of Toronto Press](https://utorontopress.com/9781487528560/big-city-elections-in-canada/). 
 Co-Edited with R. Michael McGregor. 
-(https://toronto-university-distribution-ca.imgix.net/covers/9781487528560.jpg?auto=format&w=260&dpr=2&q=20)
+(https://toronto-university-distribution-ca.imgix.net/covers/9781487528560.jpg)
 
 Local elections are an increasingly popular area of research among scholars of Canadian political behaviour, offering invaluable insights into the attitudes and motivations of Canadian electors. The Canadian Municipal Election Study (CMES) has collected unparalleled individual-level survey data in eight major Canadian municipal elections: Vancouver, Calgary, Winnipeg, London, Mississauga, Toronto, Montreal, and Quebec City. These elections, which took place in 2017 and 2018, were high-profile, contentious, and often surprising, featuring mayoral defeats, record-breaking turnouts, provincial-municipal tensions, and the first ranked-ballot election in Canada in decades.
 
@@ -32,7 +32,7 @@ Combining unprecedented individual-level survey data from the CMES with local ex
 
 ### Fields of Authority
 2016, [University of Toronto Press](https://utorontopress.com/9781487500184/fields-of-authority/).
-(https://toronto-university-distribution-ca.imgix.net/covers/9781487500184.jpg?auto=format&w=260&dpr=2&q=20)
+(https://toronto-university-distribution-ca.imgix.net/covers/9781487500184.jpg)
 
 Everywhere we turn in Canadian local politics – from policing to transit, education to public health, planning to utilities – we encounter a peculiar institutional animal: the special purpose body. These “ABCs” of local government –  library boards, school boards, transit authorities, and many others – provide vital public services, spend large sums of public money, and raise important questions about local democratic accountability.
 
