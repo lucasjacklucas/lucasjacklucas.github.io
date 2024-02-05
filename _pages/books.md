@@ -13,8 +13,7 @@ author_profile: true
 
 ### Ideology in Canadian Municipal Politics
 Forthcoming (April 2024), [University of Toronto Press](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/). 
-(https://toronto-university-distribution-ca.imgix.net/covers/9781487553692.jpg)
-
+<img src="https://toronto-university-distribution-ca.imgix.net/covers/9781487553692.jpg" alt="Ideology" title="Ideology" width="150" height="100" /> 
 One of the most peculiar features of municipal politics in Canada is how frequently local politicians, activists, and scholars disagree about how to describe the municipal arena. For some, municipal politics is distinct from other levels of government, a world of non-ideological elections, pragmatic and technical policy-making, and issue-by-issue policy coalitions. Others argue that municipal politics is similar to politics at other scales, with persistent axes of political disagreement and a recognizable "left" and "right." This recurring debate features prominently in municipal election campaigns across Canada.
 
 In Ideology in Canadian Municipal Politics, Jack Lucas investigates municipal ideology in Canada. Using data from original surveys of municipal politicians and the Canadian public, the book reveals how municipal politics is clearly structured by left-right ideology. It shows that municipal politicians represent their constituents’ ideological preferences quite well: they understand their constituents’ ideological perspectives, they align with their constituents’ preferences, and they are elected in part because of their ideological alignment with voters.
