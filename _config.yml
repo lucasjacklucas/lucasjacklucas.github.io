@@ -91,16 +91,17 @@ author:
   dataverse        : "https://borealisdata.ca/dataverse/jacklucas"
   bookbutton       : "https://lucasjacklucas.github.io/books"
   articlebutton    : "https://lucasjacklucas.github.io/articles"
+  cvbutton         : "https://lucasjacklucas.github.io/cv"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lucasjacklucas"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0002-3498-7267"
