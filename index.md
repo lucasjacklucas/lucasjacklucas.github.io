@@ -8,34 +8,5 @@ Thanks for visiting this site. I am a Professor in the Department of Political S
 
 ## Current Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My main active research project is the [Canadian Municipal Barometer](http://www.cmb-bmc.ca), for which I serve as project co-director with Sandra Breux (INRS). The Canadian Municipal Barometer is a large research partnership focused on municipal democracy and representation, with a particular emphasis on diverse representation (led by Erin Tolley), elections and voting (led by Michael McGregor), multilevel governance (led by Kristin Good), and public policy (led by Martin Horak). Since 2020, the Canadian Municipal Barometer has surveyed elected mayors and councillors in Canada's 450 largest municipalities; beginning in early 2025, our work will expand to include surveys of mayors and councillors in Canada's 1,000 largest municipalities, annual public opinion surveys across Canada, qualitative research, and municipal election studies. The Canadian Municipal Barometer is supported by a SSHRC Partnership Grant (2024-2031).  
 
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
