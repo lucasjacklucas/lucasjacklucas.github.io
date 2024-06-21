@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="photo.png">
 
 Thanks for visiting this site. I am a Professor in the Department of Political Science at the University of Calgary. My research and teaching are in the area of Canadian politics, with a particular focus on municipal elections and representation, ideology and political representation in municipal politics, and urban-rural political divides. I am also interested in “implicit” or “lay” theories of politics, especially among political elites.
 
