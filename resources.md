@@ -14,7 +14,7 @@ Researchers who are interested in policy attitudes and voting may also be intere
 
 ## Cities in Canadian Political Development
 
-
+Shapefiles and associated information on Canada's federal electoral districts from 1867-present are available [here](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/4E8DCR). A research note explaining the files is available [here](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/canadas-federal-electoral-districts-18672021-new-digital-boundary-files-and-a-comparative-investigation-of-district-compactness/BDF332FDA4FE66934253FDA490C4284A). We are happy to share our urbanity scores for federal electoral districts with interested readers; once they are updated to include Canada's new electoral districts, we will make them publicly available. 
 
 ## Other Resources
 
