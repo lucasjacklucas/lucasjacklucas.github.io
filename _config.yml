@@ -1,6 +1,6 @@
 title: Researcher
 url: "https://lucasjacklucas.github.io"
-baseurl: "/researcher"
+baseurl: "https://lucasjacklucas.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
