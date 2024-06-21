@@ -8,7 +8,7 @@ layout: default
 - McPherson, Carter, **Jack Lucas**, and R. Michael McGregor. ”Issue Accountability in Non-Partisan Municipalities: A Case Study.” Revised and resubmitted.
 - **Lucas, Jack**. "Are Municipal Politicians Ideological Moderates?" Revised and resubmitted. 
 - **Lucas, Jack**, Lior Sheffer, and Peter Loewen. "Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians." Revise and Resubmit.
-- Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. “Urban-Rural Issue Divides” Under review.
+- Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. “Urban-Rural Issue Divides.” Under review.
 - Rivard, Alexander, and **Jack Lucas**. "[Municipal Political Representation and Housing Affordability](https://osf.io/preprints/osf/26b9x)." Under review.
 - Borwein, Sophie and **Jack Lucas**. "Place Types." Under review. 
 
