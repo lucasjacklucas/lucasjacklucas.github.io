@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Thanks for visiting this site. I am a Professor in the Department of Political Science at the University of Calgary. My research and teaching are in the area of Canadian politics, with a particular focus on municipal elections and representation, ideology and political representation in municipal politics, and urban-rural political divides. I am also interested in “implicit” or “lay” theories of politics, especially among political elites.
+Thanks for visiting this site. I am a Professor in the Department of Political Science at the University of Calgary. My research and teaching are in the area of Canadian politics, with a particular focus on municipal democracy and representation, ideology in local and urban politics, and urban-rural divides. I am also interested in "implicit" or "lay" theories of politics, especially among political elites. 
 
 ## Current Projects
 
@@ -12,4 +12,5 @@ My main active research project is the [Canadian Municipal Barometer](http://www
 
 I am also Canadian co-PI, with Peter Loewen, of the Canadian chapter of [POLPOP-II](https://www.uantwerpen.be/en/research-groups/m2p/polpop/polpop_2/), a comparative study of national and regional politicians in thirteen countries. In 2022, the POLPOP-II team completed face-to-face interviews with more than 1,000 politicians, with an additional round of data collection planned for 2025. POLPOP-II is led by Stefaan Walgrave (University of Antwerp) and is supported by a European Research Council Advanced Grant (Stefaan Walgrave, PI). 
 
-I am also Principal Investigator for the Canadian Voting and Policy Attitudes Project, working with Tyler Romualdi, David Armstrong, and Elizabeth Goodyear-Grant to integrate vote intention, policy attitudes, and demographic variables in more than 500 surveys conducted in Canada from 1945-present. We have completed the first stage of this project, integrating vote intention data from the Canadian Election Study, Environics Canada, Gallup, and Pollara surveys into a survey database with more than 1 million observations. In 2024-2025, we will add policy attitudes to this dataset and complete a large "bridging survey" on contempoary policy attitudes. This project is supported by a SSHRC Insight Development Grant.
+I am also Principal Investigator for the Canadian Voting and Policy Attitudes Project, working with Tyler Romualdi, David Armstrong, and Elizabeth Goodyear-Grant to integrate vote intention, policy attitudes, and demographic variables in more than 500 surveys conducted in Canada from 1945-present. We have completed the first stage of this project, integrating vote intention data from the Canadian Election Study, Environics Canada, Gallup, and Pollara surveys into a [survey database](https://quantoid.shinyapps.io/cvpa_app/) with more than 1 million observations. In 2024-2025, we will add policy attitudes to this dataset and complete a large "bridging survey" on contempoary policy attitudes. This project is supported by a SSHRC Insight Development Grant.
+
