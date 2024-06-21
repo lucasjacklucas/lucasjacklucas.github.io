@@ -12,20 +12,20 @@ layout: default
 
 ### Forthcoming
 
-- Artiles, Alexandra, Sandra Breux, Meagan Cloutier, Susan Franceschet, and **Jack Lucas**. Forthcoming. “Women’s Representation in Canadian Municipalities.” Urban Affairs Review.
-- Armstrong, David A. II, and **Jack Lucas**. Forthcoming. "[The Structure of Municipal Voting in Vancouver](https://osf.io/2ah6e/)." _Journal of Urban Affairs_
-- Borwein, Sophie, **Jack Lucas**, and Cameron Anderson. Forthcoming. "[Lay Theories of Place Effects](https://osf.io/aj2cq)." _Political Psychology_
-- Franceschet, Susan, **Jack Lucas**, and Erica Rayment. Forthcoming. "Representing Women's Policy Preferences: Evidence from Canada." _Politics & Gender._ 
-- Hiller, Harry, **Jack Lucas** and R. Michael McGregor. Forthcoming. "Why Do Local Residents Oppose Olympic Bids? An Electoral Perspective from Calgary 2026." _Event Management._ 
+- Artiles, Alexandra, Sandra Breux, Meagan Cloutier, Susan Franceschet, and **Jack Lucas**. Forthcoming. “[Women’s Representation in Canadian Municipalities](https://journals.sagepub.com/doi/10.1177/10780874241228558).” Urban Affairs Review.
+- Armstrong, David A. II, and **Jack Lucas**. Forthcoming. "[The Structure of Municipal Voting in Vancouver]([https://osf.io/2ah6e/](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2115377))." _Journal of Urban Affairs_
+- Borwein, Sophie, **Jack Lucas**, and Cameron Anderson. Forthcoming. "[Lay Theories of Place Effects](https://osf.io/aj2cq](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12959)." _Political Psychology_
+- Franceschet, Susan, **Jack Lucas**, and Erica Rayment. Forthcoming. "[Do Women Politicians Know More about Women’s Policy Preferences? Evidence from Canada](https://www.cambridge.org/core/journals/politics-and-gender/article/do-women-politicians-know-more-about-womens-policy-preferences-evidence-from-canada/6BF3589BEDB1364B7E1343016E555C22)." _Politics & Gender._ 
+- Hiller, Harry, **Jack Lucas** and R. Michael McGregor. Forthcoming. "[Why Do Local Residents Oppose Olympic Bids? An Electoral Perspective from Calgary 2026](https://www.ingentaconnect.com/content/cog/em/pre-prints/content-mcgregorfirst;jsessionid=1boik1ngo7vo5.x-ic-live-02)." _Event Management._ 
 - **Lucas, Jack**, Peter Loewen, and Lior Sheffer. Forthcoming. "[Are Politicians Democratic Realists?](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12657) _European Journal of Political Research_. // [Supplementary Material](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12657&file=ejpr12657-sup-0001-SuppMat.pdf), [Data and Replication Files](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12657&file=ejpr12657-sup-0002-SuppMat.zip)
-- **Lucas, Jack** and Lior Sheffer. Forthcoming. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians](https://osf.io/5jgrv/)." _Political Psychology_
-- McGregor, R. Michael, **Jack Lucas**, Chris Erl, and Cameron Anderson. Forthcoming. "Understanding Support for Municipal Political Parties: Evidence from Canada." _Urban Affairs Review_
-- Taylor, Zack, **Jack Lucas**, David A. Armstrong II, and Ryan Bakker. Forthcoming. "[The Development of the Urban-Rural Cleavage in Anglo-American Democracies](https://journals.sagepub.com/doi/10.1177/00104140231194060)." _Comparative Political Studies._ , [Supplementary Material](https://journals.sagepub.com/doi/suppl/10.1177/00104140231194060/suppl_file/sj-pdf-1-cps-10.1177_00104140231194060.pdf) , [Data and Replication Files](https://journals.sagepub.com/doi/10.1177/00104140231194060#supplementary-materials)
+- **Lucas, Jack** and Lior Sheffer. Forthcoming. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians]([https://osf.io/5jgrv/](https://onlinelibrary.wiley.com/doi/10.1111/pops.12974))." _Political Psychology_
+- McGregor, R. Michael, **Jack Lucas**, Chris Erl, and Cameron Anderson. Forthcoming. "[Understanding Support for Municipal Political Parties: Evidence from Canada](https://journals.sagepub.com/doi/full/10.1177/10780874231224707)." _Urban Affairs Review_
 
 ### 2024
 
 - Anderson, Cameron, **Jack Lucas**, and R. Michael McGregor. 2024. "[Urban home values and multi-level political accountability: Evidence from Calgary, Canada.](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2101922)" _Journal of Urban Affairs_ 46(5): 1053-1069. 
 - Sheffer, Lior, **Jack Lucas**, and Peter Loewen. 2024. "[Long-Term Policymaking and Politicians' Beliefs about Voters: Evidence from a Three-Year Panel Survey of Politicians](https://onlinelibrary.wiley.com/doi/full/10.1111/gove.12768)." _Governance_ 37(2): 395-410. // [Supplementary Material](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fgove.12768&file=gove12768-sup-0001-suppl-data.pdf), [Data and replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NDFZKS)
+- Taylor, Zack, **Jack Lucas**, David A. Armstrong II, and Ryan Bakker. 2024. "[The Development of the Urban-Rural Cleavage in Anglo-American Democracies](https://journals.sagepub.com/doi/10.1177/00104140231194060)." _Comparative Political Studies_ 57 (8): 1339-1374. // [Supplementary Material](https://journals.sagepub.com/doi/suppl/10.1177/00104140231194060/suppl_file/sj-pdf-1-cps-10.1177_00104140231194060.pdf) , [Data and Replication Files](https://journals.sagepub.com/doi/10.1177/00104140231194060#supplementary-materials)
 
 ### 2023
 
