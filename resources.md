@@ -18,6 +18,6 @@ Researchers who are interested in policy attitudes and voting may also be intere
 
 ## Other Resources
 
-Miscellaneous additional resources are available on my [Dataverse](https://borealisdata.ca/dataverse/jacklucas). I have also written an R package to easily estimate Bayesian factor analysis models and produce useful summary statistics; it is available [here](https://github.com/lucasjacklucas/lucasjacklucas), and I'm happy to explain how to use the package to anyone who would like to use it, but it is (and is likely to remain) completely undocumented and unsupported so...buyer beware! 
+Miscellaneous additional resources are available on my [Dataverse](https://borealisdata.ca/dataverse/jacklucas). I have also written an R package to easily estimate Bayesian factor analysis models and produce useful summary statistics; it is available [here](https://github.com/lucasjacklucas/lucasjacklucas), and I'm happy to explain how to use the package to anyone who would like to use it, but it is (and is likely to remain) completely undocumented and unsupported, so...buyer beware! 
 
 
