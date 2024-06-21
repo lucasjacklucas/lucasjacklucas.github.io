@@ -6,7 +6,9 @@ Thanks for visiting this site. I am a Professor in the Department of Political S
 
 ## Books
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- Lucas, Jack. 2024. _Ideology in Canadian Municipal Politics_. Toronto: University of Toronto Press.
+- Lucas, Jack and R. Michael McGregor, Eds. 2021. _Big City Elections in Canada_. Toronto: University of Toronto Press.
+- Lucas, Jack. 2016. _Fields of Authority: Special Purpose Governance in Ontario, 1815-2015_. Toronto: University of Toronto Press. 
 
 ## Articles and Chapters
 
