@@ -25,7 +25,7 @@ layout: default
 ### 2024
 
 - Anderson, Cameron, Jack Lucas, and R. Michael McGregor. 2024. "[Urban home values and multi-level political accountability: Evidence from Calgary, Canada.](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2101922)" _Journal of Urban Affairs_ 46(5): 1053-1069. 
-- Sheffer, Lior, Jack Lucas, and Peter Loewen. 2024. "[Long-Term Policymaking and Politicians' Beliefs about Voters: Evidence from a Three-Year Panel Survey of Politicians](https://onlinelibrary.wiley.com/doi/full/10.1111/gove.12768)." _Governance_ 37(2): 395-410. ,, [Supplementary Material](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fgove.12768&file=gove12768-sup-0001-suppl-data.pdf), [Data and replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NDFZKS)
+- Sheffer, Lior, Jack Lucas, and Peter Loewen. 2024. "[Long-Term Policymaking and Politicians' Beliefs about Voters: Evidence from a Three-Year Panel Survey of Politicians](https://onlinelibrary.wiley.com/doi/full/10.1111/gove.12768)." _Governance_ 37(2): 395-410. // [Supplementary Material](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fgove.12768&file=gove12768-sup-0001-suppl-data.pdf), [Data and replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NDFZKS)
 
 ### 2023
 
