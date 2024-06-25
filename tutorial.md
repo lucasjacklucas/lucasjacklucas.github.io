@@ -9,5 +9,6 @@ This is a test tutorial with some embedded code.
 ```r
 
 code <- code
+ggplot(star)
 
 ```
