@@ -12,7 +12,7 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="mcmahon.png">
 
-**Nicole McMahon** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in Governance, Party Politics, Politics, Groups and Identities, Representation, PS: Political Science & Politics, and the Canadian Journal of Political Science. For more information about Nicole's work, please visit www.nicolefmcmahon.com. 
+**Nicole McMahon** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit www.nicolefmcmahon.com. 
 
 <img class="profile-picture" src="Romualdi.jpeg">
 
