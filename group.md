@@ -10,6 +10,10 @@ My research group is broadly focused on democracy and political representation i
 
 **Sarah Lachance** is a Postdoctoral Fellow affiliated with POLPOP-II, a comparative international study of regional and national elected representatives. Her research investigates questions related to political psychology and political behaviour in Canada and other democracies. She is particularly interested in voter and elite decision-making, as well as democratic representation.
 
+<img class="profile-picture" src="mcmahon.png">
+
+**Nicole McMahon** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in Governance, Party Politics, Politics, Groups and Identities, Representation, PS: Political Science & Politics, and the Canadian Journal of Political Science. For more information about Nicole's work, please visit www.nicolefmcmahon.com. 
+
 <img class="profile-picture" src="Romualdi.jpeg">
 
 **Tyler Romualdi** is a Ph.D. candidate in the Department of Political Science at Western University. His research focuses on Canadian and urban politics, with a particular emphasis on the welfare state and the historical development of individuals' policy attitudes.
