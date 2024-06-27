@@ -6,6 +6,10 @@ My research group is broadly focused on democracy and political representation i
 
 ## Current Group Members
 
+<img class="profile-picture" src="dillabough.png">
+
+**Elliot Dillabough** (B.A Honours, University of Saskatchewan) is a master's student at the University of Calgary. Elliot's thesis examines partisan behaviour in local politics, especially in officially non-partisan contexts. He is also broadly interested in questions of democratic representation at the local level. When not thinking about municipal politics, Elliot enjoys playing oldtime music and (mis)identifying birds at Bowness Park. 
+
 <img class="profile-picture" src="lachance.jpg">
 
 **Dr. Sarah Lachance** is a Postdoctoral Scholar affiliated with POLPOP-II, a comparative international study of regional and national elected representatives. Her research investigates questions related to political psychology and political behaviour in Canada and other democracies. She is particularly interested in voter and elite decision-making, as well as democratic representation. For more information about Sarah's work, please visit [https://sarahlachance.github.io](https://sarahlachance.github.io).
