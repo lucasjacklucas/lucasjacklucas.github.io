@@ -8,11 +8,11 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="lachance.jpg">
 
-**Sarah Lachance** is a Postdoctoral Scholar affiliated with POLPOP-II, a comparative international study of regional and national elected representatives. Her research investigates questions related to political psychology and political behaviour in Canada and other democracies. She is particularly interested in voter and elite decision-making, as well as democratic representation. For more information about Sarah's work, please visit [https://sarahlachance.github.io](https://sarahlachance.github.io).
+**Dr. Sarah Lachance** is a Postdoctoral Scholar affiliated with POLPOP-II, a comparative international study of regional and national elected representatives. Her research investigates questions related to political psychology and political behaviour in Canada and other democracies. She is particularly interested in voter and elite decision-making, as well as democratic representation. For more information about Sarah's work, please visit [https://sarahlachance.github.io](https://sarahlachance.github.io).
 
 <img class="profile-picture" src="mcmahon.png">
 
-**Nicole McMahon** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
+**Dr. Nicole McMahon** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
 
 <img class="profile-picture" src="Romualdi.jpeg">
 
