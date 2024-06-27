@@ -8,7 +8,7 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="dillabough.png">
 
-**Elliot Dillabough** (B.A Honours, University of Saskatchewan) is a master's student at the University of Calgary. Elliot's thesis examines partisan behaviour in local politics, especially in officially non-partisan contexts. He is also broadly interested in questions of democratic representation at the local level. When not thinking about municipal politics, Elliot enjoys playing oldtime music and (mis)identifying birds at Bowness Park. 
+**Elliot Dillabough** (B.A Honours, University of Saskatchewan) is an MA student at the University of Calgary. Elliot's thesis examines partisan behaviour in local politics, especially in officially non-partisan contexts. He is also broadly interested in questions of democratic representation at the local level. When not thinking about municipal politics, Elliot enjoys playing oldtime music and (mis)identifying birds at Bowness Park. 
 
 <img class="profile-picture" src="lachance.jpg">
 
