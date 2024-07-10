@@ -20,6 +20,7 @@ layout: default
 - **Lucas, Jack**, Peter Loewen, and Lior Sheffer. Forthcoming. "[Are Politicians Democratic Realists?](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12657) _European Journal of Political Research_. // [Supplementary Material](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12657&file=ejpr12657-sup-0001-SuppMat.pdf), [Data and Replication Files](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12657&file=ejpr12657-sup-0002-SuppMat.zip)
 - **Lucas, Jack** and Lior Sheffer. Forthcoming. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians]([https://osf.io/5jgrv/](https://onlinelibrary.wiley.com/doi/10.1111/pops.12974))." _Political Psychology_.
 - McGregor, R. Michael, **Jack Lucas**, Chris Erl, and Cameron Anderson. Forthcoming. "[Understanding Support for Municipal Political Parties: Evidence from Canada](https://journals.sagepub.com/doi/full/10.1177/10780874231224707)." _Urban Affairs Review_.
+- McPherson, Carter, **Jack Lucas**, and R. Michael McGregor. Forthcoming. ”Issue Accountability in Non-Partisan Municipalities: A Case Study.” _Urban Affairs Review._
 
 ### 2024
 
