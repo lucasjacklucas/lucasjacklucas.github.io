@@ -5,7 +5,6 @@ layout: default
 ## Under Review
 
 - **Lucas, Jack**, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Pirmin Bundi, Frédéric Varone, Stefanie Bailer, Nathalie Brack, Christian Breunig, Linda Coufalová, Patrick Dumont, Nathalie Giger, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba. ”Do Politicians and Citizens Have Different Theories of Elections and Voting?” Revised and resubmitted.
-- McPherson, Carter, **Jack Lucas**, and R. Michael McGregor. ”Issue Accountability in Non-Partisan Municipalities: A Case Study.” Revised and resubmitted.
 - **Lucas, Jack**. "Are Municipal Politicians Ideological Moderates?" Revised and resubmitted. 
 - **Lucas, Jack**, Lior Sheffer, and Peter Loewen. "Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians." Revise and Resubmit.
 - Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. “Urban-Rural Issue Divides.” Under review.
