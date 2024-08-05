@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Thanks for visiting this site. I am a Professor in the Department of Political Science at the University of Calgary. My research and teaching are in the area of Canadian politics, with a particular focus on municipal democracy and representation, ideology in local and urban politics, and urban-rural divides. I am also interested in "implicit" or "lay" theories of politics, especially among political elites. You can email me [here](mailto:jack.lucas@ucalgary.ca). 
+Thanks for visiting this site. I am a Professor in the Department of Political Science at the University of Calgary. My research and teaching are in the area of Canadian politics, with a particular focus on municipal democracy and representation, ideology in local and urban politics, and urban-rural divides. I am also interested in "implicit" or "lay" theories of politics, especially among political elites. I’ve written or co-edited three books (all published by University of Toronto Press) and published more than fifty articles in journals including _American Political Science Review, Cities, Comparative Political Studies, European Journal of Political Research, Political Behavior, Political Geography, Political Psychology_, and _Urban Affairs Review_. You can email me [here](mailto:jack.lucas@ucalgary.ca). 
 
 ## Current Projects
 
