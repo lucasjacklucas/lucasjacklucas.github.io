@@ -37,6 +37,7 @@ layout: default
 - Breton, Charles, Jack Lucas, and Zack Taylor. 2023. "[Local Autonomy: Unconditional Elites and Conditional Publics.](https://www.tandfonline.com/doi/abs/10.1080/03003930.2022.2098722)" _Local Government Studies_ 49 (6): 1263-1284. 
 - Conrad, Laura and **Jack Lucas**. 2023. "Women's Inclusion and Participation in Municipal Elections: Historical Evidence from Eligible Voter Lists." _Urban History Review._ 51 (1): 145-153.
 - Eidelman, Gabriel and **Jack Lucas**. 2023. "[How Do Municipal Mayors and Councillors Communicate with other Levels of Government? Evidence from a Multi-level Survey of Canadian Elected Officials](https://t.co/9n0aJPJYZu)" _Canadian Public Administration_ 66(1): 78-95
+  - _Winner, Hodgetts Award for best article in the 2023 volume of Canadian Public Administration._
 - Erl, Chris, R. Michael McGregor, **Jack Lucas**, and Cameron Anderson. 2023. “Resentment and admiration: Public opinion towards teachers and public sector employees in Ontario.” _Canadian Journal of Education._ 46 (3): 597-627.
 - **Lucas, Jack**, R. Michael McGregor, and Aengus Bridgman. 2023. "[Spatial Voting in Non-Partisan Cities: A Case Study](http://jacklucas.pennyjar.ca/yyc_spatial.pdf)" _Electoral Studies_ 82 (102599): 1-12.
 - **Lucas, Jack**. 2023. "[The Ideological Structure of Municipal Non-Ideology](http://jacklucas.pennyjar.ca/munideol.pdf)." _Urban Affairs Review_ 59 (1): 275-293.
