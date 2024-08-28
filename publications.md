@@ -5,6 +5,7 @@ layout: default
 ## Books
 
 - **Lucas, Jack**. 2024. _[Ideology in Canadian Municipal Politics](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/)_. Toronto: University of Toronto Press.
+   - _Winner, 2024 Seymour Martin Lipset Best Book Award, APSA Canadian Section._
 - **Lucas, Jack** and R. Michael McGregor, Eds. 2021. _[Big City Elections in Canada](https://utorontopress.com/9781487528560/big-city-elections-in-canada/)_. Toronto: University of Toronto Press.
 - **Lucas, Jack**. 2016. _[Fields of Authority: Special Purpose Governance in Ontario, 1815-2015](https://utorontopress.com/9781487500184/fields-of-authority/)_. Toronto: University of Toronto Press. 
 
@@ -19,6 +20,7 @@ layout: default
 - **Lucas, Jack**, Peter Loewen, and Lior Sheffer. Forthcoming. "[Are Politicians Democratic Realists?](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.12657) _European Journal of Political Research_. // [Supplementary Material](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12657&file=ejpr12657-sup-0001-SuppMat.pdf), [Data and Replication Files](https://ejpr.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2F1475-6765.12657&file=ejpr12657-sup-0002-SuppMat.zip)
 - **Lucas, Jack**, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone. Forthcoming. "Politicians' Theories of Voting Behavior." _American Political Science Review._
 - **Lucas, Jack** and Lior Sheffer. Forthcoming. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians]([https://osf.io/5jgrv/](https://onlinelibrary.wiley.com/doi/10.1111/pops.12974))." _Political Psychology_.
+- McGregor, R. Michael, Simon Kiss, **Jack Lucas**, and Andrea Perrella. "Where Public Health meets Public Opinion: Understanding Political Support for Fluoridation in Calgary 2021." _Canadian Journal of Public Health._
 - McPherson, Carter, **Jack Lucas**, and R. Michael McGregor. Forthcoming. ”Issue Accountability in Non-Partisan Municipalities: A Case Study.” _Urban Affairs Review._
 
 ### 2024
