@@ -4,7 +4,6 @@ layout: default
 
 ## Under Review
 
-- **Lucas, Jack**, Lior Sheffer, and Peter Loewen. "Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians." Revised and Resubmitted.
 - Borwein, Sophie and **Jack Lucas**. "Place Types." Revise and Resubmit.
 - **Lucas, Jack**, Tyler Romualdi, David A. Armstrong II, and Elizabeth Goodyear-Grant. "Demographic Divides in Canadian Voting, 1945-2022: The Canadian Vote Intention Dataset." Revise and Resubmit. 
 - Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. “Urban-Rural Issue Divides.” Under review.
