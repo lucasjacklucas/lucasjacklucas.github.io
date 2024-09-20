@@ -20,7 +20,8 @@ layout: default
 - **Lucas, Jack**, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone. Forthcoming. "Politicians' Theories of Voting Behavior." _American Political Science Review._
 - **Lucas, Jack** and Lior Sheffer. Forthcoming. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians]([https://osf.io/5jgrv/](https://onlinelibrary.wiley.com/doi/10.1111/pops.12974))." _Political Psychology_.
 - McGregor, R. Michael, Simon Kiss, **Jack Lucas**, and Andrea Perrella. "Where Public Health meets Public Opinion: Understanding Political Support for Fluoridation in Calgary 2021." _Canadian Journal of Public Health._
-- McPherson, Carter, **Jack Lucas**, and R. Michael McGregor. Forthcoming. ”Issue Accountability in Non-Partisan Municipalities: A Case Study.” _Urban Affairs Review._
+- **Lucas, Jack**, Lior Sheffer, and Peter Loewen. "Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians." _Political Behavior_.
+- - McPherson, Carter, **Jack Lucas**, and R. Michael McGregor. Forthcoming. ”Issue Accountability in Non-Partisan Municipalities: A Case Study.” _Urban Affairs Review._
 
 ### 2024
 
