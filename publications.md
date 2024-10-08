@@ -37,7 +37,7 @@ layout: default
 
 - Borwein, Sophie and **Jack Lucas**. 2023. "[Municipal Identity and City Interests.](https://link.springer.com/article/10.1007/s11109-021-09735-5)" _Political Behavior_. 45(3): 831-853. // [Supplementary Material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-021-09735-5/MediaObjects/11109_2021_9735_MOESM1_ESM.pdf) , [Data and Replication Files](https://doi.org/10.5683/SP2/DNQLRO)
 - Borwein, Sophie and **Jack Lucas**. 2023. "[Asymmetries in Urban, Suburban, and Rural Place-Based Resentment](https://osf.io/azwsy)." _Political Geography_ (105): 1-10. 
-- Breton, Charles, Jack Lucas, and Zack Taylor. 2023. "[Local Autonomy: Unconditional Elites and Conditional Publics.](https://www.tandfonline.com/doi/abs/10.1080/03003930.2022.2098722)" _Local Government Studies_ 49 (6): 1263-1284. 
+- Breton, Charles, **Jack Lucas**, and Zack Taylor. 2023. "[Local Autonomy: Unconditional Elites and Conditional Publics.](https://www.tandfonline.com/doi/abs/10.1080/03003930.2022.2098722)" _Local Government Studies_ 49 (6): 1263-1284. 
 - Conrad, Laura and **Jack Lucas**. 2023. "Women's Inclusion and Participation in Municipal Elections: Historical Evidence from Eligible Voter Lists." _Urban History Review._ 51 (1): 145-153.
 - Eidelman, Gabriel and **Jack Lucas**. 2023. "[How Do Municipal Mayors and Councillors Communicate with other Levels of Government? Evidence from a Multi-level Survey of Canadian Elected Officials](https://t.co/9n0aJPJYZu)" _Canadian Public Administration_ 66(1): 78-95
   - _Winner, Hodgetts Award for best article in the 2023 volume of Canadian Public Administration._
