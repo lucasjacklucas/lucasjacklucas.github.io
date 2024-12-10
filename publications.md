@@ -13,6 +13,7 @@ layout: default
 
 ### Forthcoming
 
+- Borwein, Sophie and **Jack Lucas**. Forthcoming. "Place Types." _Canadian Journal of Political Science_.
 - Borwein, Sophie, **Jack Lucas**, and Cameron Anderson. Forthcoming. "[Lay Theories of Place Effects](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12959)." _Political Psychology_.
 - Franceschet, Susan, **Jack Lucas**, and Erica Rayment. Forthcoming. "[Do Women Politicians Know More about Women’s Policy Preferences? Evidence from Canada](https://www.cambridge.org/core/journals/politics-and-gender/article/do-women-politicians-know-more-about-womens-policy-preferences-evidence-from-canada/6BF3589BEDB1364B7E1343016E555C22)." _Politics & Gender._ 
 - **Lucas, Jack**, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone. Forthcoming. "Politicians' Theories of Voting Behavior." _American Political Science Review._ // [Data and Replication Files](https://doi.org/10.7910/DVN/QRAUDJ)
