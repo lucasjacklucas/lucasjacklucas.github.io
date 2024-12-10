@@ -4,7 +4,7 @@ layout: default
 
 ## Canadian Municipal Barometer
 
-The Canadian Municipal Barometer dataverse is available here. The Canadian Municipal Elections Database, containing more than 40,000 distinct municipal election contests in Canada, is available here. Our database on women's representation, constructed in collaboration with the Federation of Canadian Municipalities, is available here. Please note that the Canadian Municipal Barometer is in a period of transition as we expand our team and scope; researchers who are interested in specific data should contact me directly until we have constructed our new consolidated data repository. 
+The Canadian Municipal Barometer dataverse is available here. The Canadian Municipal Elections Database, containing more than 40,000 distinct municipal election contests in Canada, is available [here](https://doi.org/10.5683/SP2/4MZJPQ). Our database on women's representation, constructed in collaboration with the Federation of Canadian Municipalities, is available here. Please note that the Canadian Municipal Barometer is in a period of transition as we expand our team and scope; researchers who are interested in specific data should contact me directly until we have constructed our new consolidated data repository. 
 
 ## Canadian Voting and Policy Attitudes
 
@@ -12,9 +12,11 @@ The CVAP R package is available [here](https://github.com/davidaarmstrong/cvpa).
 
 Researchers who are interested in policy attitudes and voting may also be interested in latent unidimensional ideology estimates created with Dave Armstrong; the individual-level ideology scores, together with MRP estimates of average ideological positions for municipalities and federal electoral districts in Canada, are available [at this page](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP2/BLYP7X).
 
-## Cities in Canadian Political Development
+## Urban-Rural Divides and Place Types
 
 Shapefiles and associated information on Canada's federal electoral districts from 1867-present are available [here](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/4E8DCR). A research note explaining the files is available [here](https://www.cambridge.org/core/journals/canadian-journal-of-political-science-revue-canadienne-de-science-politique/article/canadas-federal-electoral-districts-18672021-new-digital-boundary-files-and-a-comparative-investigation-of-district-compactness/BDF332FDA4FE66934253FDA490C4284A). We are happy to share our urbanity scores for federal electoral districts with interested readers; once they are updated to include Canada's new electoral districts, we will make them publicly available. 
+
+A typology of Canadian aggregate dissemination areas, developed with Sophie Borwein, is available [here](https://doi.org/10.5683/SP3/9C5TU0).
 
 ## Other Resources
 
