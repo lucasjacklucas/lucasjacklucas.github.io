@@ -6,7 +6,7 @@ The purpose of this study is to better understand the experiences and perspectiv
 
 # What Type of Personal Information Will be Collected? 
 
-I will collect information on the demographic identities (e.g. gender, age group, racial identity) of some participants if that information is disclosed as part of naturally occurring conversations. I will never disclose personal information if it would risk making a participant personally identifiable.
+I will collect information on participants' gender identities if that information is disclosed as part of naturally occurring conversations. I will never disclose personal information if it would risk making a participant personally identifiable.
  
 # Are There Risks or Benefits if I Participate? 
  
