@@ -18,7 +18,7 @@ My research group is broadly focused on democracy and political representation i
 
 **Dr. Nicole McMahon** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
 
-<img class="profile-picture" src="Romualdi.jpeg">
+<img class="profile-picture" src="McPherson.jpg">
 
 **Carter McPherson** is a Ph.D. candidate in the Department of Political Science at Simon Fraser University. His research focuses on municipal politics, policy knowledge, spatial voting, and political behaviour. He is also interested in experimental research methods, particularly field and survey experimental techniques in political science.  
 
