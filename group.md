@@ -20,7 +20,7 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="McPherson.jpg">
 
-**Carter McPherson** is a Ph.D. candidate in the Department of Political Science at Simon Fraser University. His research focuses on municipal politics, policy knowledge, spatial voting, and political behaviour. He is also interested in experimental research methods, particularly field and survey experimental techniques in political science.  
+**Carter McPherson** is a Ph.D. candidate in the Department of Political Science at Simon Fraser University. His research focuses on municipal politics, policy knowledge, spatial voting, and political behaviour. He is also interested in experimental research methods, particularly field and survey experimental techniques in political science.
 
 <img class="profile-picture" src="Romualdi.jpeg">
 
