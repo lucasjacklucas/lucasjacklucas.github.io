@@ -20,4 +20,8 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="Romualdi.jpeg">
 
+**Carter McPherson** is a Ph.D. candidate in the Department of Political Science at Simon Fraser University. His research focuses on municipal politics, policy knowledge, spatial voting, and political behaviour. He is also interested in experimental research methods, particularly field and survey experimental techniques in political science.  
+
+<img class="profile-picture" src="Romualdi.jpeg">
+
 **Tyler Romualdi** is a Ph.D. candidate in the Department of Political Science at Western University. His research focuses on Canadian and urban politics, with a particular emphasis on the welfare state and the historical development of individuals' policy attitudes.
