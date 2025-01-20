@@ -22,7 +22,7 @@ layout: default
 
 ### 2025
 
-- **Lucas, Jack** and Lior Sheffer. 2025. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians]([https://osf.io/5jgrv/]([https://onlinelibrary.wiley.com/doi/10.1111/pops.12974](https://doi.org/10.1111/pops.12974)." _Political Psychology_ 46 (1): 71-84. 
+- **Lucas, Jack** and Lior Sheffer. 2025. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians](https://doi.org/10.1111/pops.12974)." _Political Psychology_ 46 (1): 71-84. 
 
 ### 2024
 
