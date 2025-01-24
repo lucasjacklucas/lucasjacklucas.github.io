@@ -13,7 +13,9 @@ layout: default
 
 ### Forthcoming
 
+- Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. Forthcoming. “Urban-Rural Issue Divides.” _European Journal of Political Research._
 - Borwein, Sophie and **Jack Lucas**. Forthcoming. "Place Types." _Canadian Journal of Political Science_.
+- Dillabough, Elliot and **Jack Lucas**. Forthcoming. "Municipal Politicians and Local Electoral Institutions in Canada: An Overview." _Canadian Public Administration._
 - **Lucas, Jack**, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone. Forthcoming. "Politicians' Theories of Voting Behavior." _American Political Science Review._ // [Data and Replication Files](https://doi.org/10.7910/DVN/QRAUDJ)
 - **Lucas, Jack**, Lior Sheffer, and Peter Loewen. Forthcoming. "[Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians](https://link.springer.com/article/10.1007/s11109-024-09982-2)." _Political Behavior_. // [Data and Replication Files](https://doi.org/10.5683/SP3/OXPO3L), [Supplementary material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-024-09982-2/MediaObjects/11109_2024_9982_MOESM1_ESM.pdf), [Short Summary](https://theconversation.com/canadians-want-politicians-who-reflect-their-views-is-that-what-they-get-241331)
 - **Lucas, Jack**, Tyler Romualdi, David A. Armstrong II, and Elizabeth Goodyear-Grant. Forthcoming. "Demographic Divides in Canadian Voting, 1945-2022: The Canadian Vote Intention Dataset." _Canadian Journal of Political Science._
