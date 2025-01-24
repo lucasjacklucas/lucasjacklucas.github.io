@@ -4,7 +4,6 @@ layout: default
 
 ## Under Review
 
-- Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. “Urban-Rural Issue Divides.” Revised and resubmitted. 
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." Under review.
 - Rivard, Alexander, and **Jack Lucas**. "[Municipal Political Representation and Housing Affordability](https://osf.io/preprints/osf/26b9x)." Under review.
 
