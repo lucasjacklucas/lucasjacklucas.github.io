@@ -10,7 +10,7 @@ My research group is broadly focused on democracy and political representation i
 
 **Elliot Dillabough** (B.A Honours, University of Saskatchewan) is an MA student at the University of Calgary. Elliot's thesis examines partisan behaviour in local politics, especially in officially non-partisan contexts. He is also broadly interested in questions of democratic representation at the local level. When not thinking about municipal politics, Elliot enjoys playing oldtime music and (mis)identifying birds at Bowness Park.
 
-<img class="profile-picture" src="mcmahon.jpg">
+<img class="profile-picture" src="mcmahon.png">
 
 **Dr. Nicole McMahon** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
 
