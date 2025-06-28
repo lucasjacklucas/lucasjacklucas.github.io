@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Please [https://lucasjacklucas.github.io/pubs-theme](click here) for a list of publications organized by theme. 
+Please [click here](https://lucasjacklucas.github.io/pubs-theme) for a list of publications organized by theme. 
 
 ## Books
 
