@@ -13,6 +13,8 @@ layout: default
 - **Lucas, Jack**, Lior Sheffer, and Peter Loewen. Forthcoming. "[Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians](https://link.springer.com/article/10.1007/s11109-024-09982-2)." _Political Behavior_. // [Data and Replication Files](https://doi.org/10.5683/SP3/OXPO3L), [Supplementary material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-024-09982-2/MediaObjects/11109_2024_9982_MOESM1_ESM.pdf), [Short Summary](https://theconversation.com/canadians-want-politicians-who-reflect-their-views-is-that-what-they-get-241331)
 - **Lucas, Jack** and Lior Sheffer. 2025. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians](https://doi.org/10.1111/pops.12974)." _Political Psychology_ 46 (1): 71-84. 
 - Franceschet, Susan, **Jack Lucas**, and Erica Rayment. 2024. "[Do Women Politicians Know More about Women’s Policy Preferences? Evidence from Canada](https://www.cambridge.org/core/journals/politics-and-gender/article/do-women-politicians-know-more-about-womens-policy-preferences-evidence-from-canada/6BF3589BEDB1364B7E1343016E555C22)." _Politics & Gender_ 20 (3): 579-597. 
+- **Lucas, Jack**. 2024. _[Ideology in Canadian Municipal Politics](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/)_. Toronto: University of Toronto Press.
+   - _Winner, 2024 Seymour Martin Lipset Best Book Award, APSA Canadian Section._
 - Blidook, Kelly, Royce Koop, and **Jack Lucas**. 2022 "[Municipal Representation Style and Focus: Evidence from Canadian Mayors and Councillors.](https://www.tandfonline.com/doi/abs/10.1080/00344893.2021.1993317?journalCode=rrep20)" _Representation_ 58 (4): 603-622.
 
 ## Urban-Rural Divides and Place-Based Politics
