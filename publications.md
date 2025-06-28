@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Please [https://lucasjacklucas.github.io/pubs-theme](click here) for a list of publications organized by theme. 
+
 ## Books
 
 - Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. Forthoming. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press. 
