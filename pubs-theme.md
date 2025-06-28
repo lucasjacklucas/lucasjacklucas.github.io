@@ -44,6 +44,7 @@ layout: default
 ## Urban Political Development and Municipal Governance
 
 - Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. Forthoming. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press.
+- **Lucas, Jack**. Forthcoming. "Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta." _Urban History Review_. 
 - Breton, Charles, **Jack Lucas**, and Zack Taylor. 2023. "[Local Autonomy: Unconditional Elites and Conditional Publics.](https://www.tandfonline.com/doi/abs/10.1080/03003930.2022.2098722)" _Local Government Studies_ 49 (6): 1263-1284. 
 - Eidelman, Gabriel and **Jack Lucas**. 2023. "[How Do Municipal Mayors and Councillors Communicate with other Levels of Government? Evidence from a Multi-level Survey of Canadian Elected Officials](https://t.co/9n0aJPJYZu)" _Canadian Public Administration_ 66(1): 78-95
   - _Winner, Hodgetts Award for best article in the 2023 volume of Canadian Public Administration._
