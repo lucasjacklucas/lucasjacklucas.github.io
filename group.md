@@ -20,7 +20,7 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="polacko.jpg">
 
-**Dr. Matthew Polacko** is a Postdoctoral Associate at the University of Calgary. His research interests lie at the intersection of political economy and political behaviour with a particular focus on class politics, inequality, and public policy, in Canada and other advanced democracies. For more information about Matt’s work, please visit: [www.nicolefmcmahon.com](mattpolacko.com). 
+**Dr. Matthew Polacko** is a Postdoctoral Associate at the University of Calgary. His research interests lie at the intersection of political economy and political behaviour with a particular focus on class politics, inequality, and public policy, in Canada and other advanced democracies. For more information about Matt’s work, please visit: [mattpolacko.com](mattpolacko.com). 
 
 <img class="profile-picture" src="Romualdi.jpeg">
 
@@ -32,7 +32,7 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="vanhooren.JPG">
 
-**Shanaya Vanhooren** is a Canadian Municipal Barometer Postdoctoral Scholar at INRS. She researches Canadian politics with a focus on provincial party systems, urban and local politics, and public policy. Her dissertation research used election platforms to investigate party position change and programmatic polarization in provincial elections since 1945. Learn more about her work by visiting shanayavanhooren.com
+**Shanaya Vanhooren** is a Canadian Municipal Barometer Postdoctoral Scholar at INRS. She researches Canadian politics with a focus on provincial party systems, urban and local politics, and public policy. Her dissertation research used election platforms to investigate party position change and programmatic polarization in provincial elections since 1945. Learn more about her work by visiting [shanayavanhooren.com](shanayavanhooren.com)
 
 ## Research Group Alumni
 
