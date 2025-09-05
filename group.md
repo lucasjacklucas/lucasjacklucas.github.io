@@ -6,9 +6,9 @@ My research group is broadly focused on democracy and political representation i
 
 ## Current Group Members
 
-<img class="profile-picture" src="dillabough.png">
+<img class="profile-picture" src="krause.jpg">
 
-**Elliot Dillabough** (B.A Honours, University of Saskatchewan) is an MA student at the University of Calgary. Elliot's thesis examines partisan behaviour in local politics, especially in officially non-partisan contexts. He is also broadly interested in questions of democratic representation at the local level. When not thinking about municipal politics, Elliot enjoys playing oldtime music and (mis)identifying birds at Bowness Park.
+**Emerson Krause** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
 
 <img class="profile-picture" src="mcmahon.png">
 
@@ -18,11 +18,27 @@ My research group is broadly focused on democracy and political representation i
 
 **Carter McPherson** is a Ph.D. candidate in the Department of Political Science at Simon Fraser University. His research focuses on municipal politics, policy knowledge, spatial voting, and political behaviour. He is also interested in experimental research methods, particularly field and survey experimental techniques in political science.
 
+<img class="profile-picture" src="polacko.jpg">
+
+**Dr. Matthew Polacko** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
+
 <img class="profile-picture" src="Romualdi.jpeg">
 
 **Tyler Romualdi** is a Ph.D. candidate in the Department of Political Science at Western University. His research focuses on Canadian and urban politics, with a particular emphasis on the welfare state and the historical development of individuals' policy attitudes.
 
+<img class="profile-picture" src="titelman.jpg">
+
+**Dr. Noam Titelman** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
+
+<img class="profile-picture" src="vanhooren.jpg">
+
+**Shanaya Vanhooren** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
+
 ## Research Group Alumni
+
+<img class="profile-picture" src="dillabough.png">
+
+**Elliot Dillabough** (B.A Honours, University of Saskatchewan) completed an MA at the University of Calgary in 2025. Elliot's thesis examined partisan behaviour in local politics, especially in officially non-partisan contexts. He is also broadly interested in questions of democratic representation at the local level. When not thinking about municipal politics, Elliot enjoys playing oldtime music and (mis)identifying birds at Bowness Park.
 
 <img class="profile-picture" src="lachance.jpg">
 
