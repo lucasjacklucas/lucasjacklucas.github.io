@@ -4,6 +4,12 @@ layout: default
 
 My research group is broadly focused on democracy and political representation in Canada, with a particular emphasis on local and urban politics. We meet regularly to share ideas, discuss new research, plan research projects, and provide feedback. The research group is based at the University of Calgary but includes members from across Canada. If you have an interest in joining the research group, please get in touch! 
 
+Noam Titelman is the Mark Grosjean postdoctoral fellow at the Political Science department of the University of Calgary. He obtained his PhD in the Methodology department of the London School of Economics. His research interests include the social underpinnings of electoral behaviour, democratic attitudes, and democratic backsliding. His work is published in the British Journal of Political Science, Political Science Research and Methods, and Party Politics
+
+Shanaya Vanhooren is a Canadian Municipal Barometer Postdoctoral Scholar at INRS. She researches Canadian politics with a focus on provincial party systems, urban and local politics, and public policy. Her dissertation research used election platforms to investigate party position change and programmatic polarization in provincial elections since 1945. Learn more about her work by visiting shanayavanhooren.com
+
+Emerson Krause (B.A., University of Michigan) is a Master's Thesis student at the University of Calgary. Emerson is interested in political behavior, particularly in the interaction between social identities such as partisanship and municipal identities, and the factors that strengthen them and their influence on issue values.
+
 ## Current Group Members
 
 <img class="profile-picture" src="krause.jpg">
@@ -20,7 +26,7 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="polacko.jpg">
 
-**Dr. Matthew Polacko** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
+**Dr. Matthew Polacko** is a Postdoctoral Associate at the University of Calgary. His research interests lie at the intersection of political economy and political behaviour with a particular focus on class politics, inequality, and public policy, in Canada and other advanced democracies. For more information about Matt’s work, please visit: [www.nicolefmcmahon.com](mattpolacko.com). 
 
 <img class="profile-picture" src="Romualdi.jpeg">
 
