@@ -18,7 +18,7 @@ layout: default
 
 ## Urban-Rural Divides and Place-Based Politics
 
-Test
+Test to see if this works? 
 - Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. “Place Consciousness and Voting in Canada.” _Canadian Journal of Political Science_.
 - Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. 2025. “Urban-Rural Issue Divides.” _European Journal of Political Research_ 64 (4): 1827-1848.
 - Borwein, Sophie and **Jack Lucas**. 2025. "[Place Types](https://doi.org/10.1017/S0008423924000842)." _Canadian Journal of Political Science_ 58 (2): 380-396.
