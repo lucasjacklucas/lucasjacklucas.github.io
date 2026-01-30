@@ -6,7 +6,7 @@ Please [click here](https://lucasjacklucas.github.io/pubs-theme) for a list of p
 
 ## Books
 
-- Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. Forthoming. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press. 
+- Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. 2025. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press. 
 - **Lucas, Jack**. 2024. _[Ideology in Canadian Municipal Politics](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/)_. Toronto: University of Toronto Press.
    - _Winner, 2024 Seymour Martin Lipset Best Book Award, APSA Canadian Section._
 - **Lucas, Jack** and R. Michael McGregor, Eds. 2021. _[Big City Elections in Canada](https://utorontopress.com/9781487528560/big-city-elections-in-canada/)_. Toronto: University of Toronto Press.
