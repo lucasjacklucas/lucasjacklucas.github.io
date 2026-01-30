@@ -20,6 +20,7 @@ layout: default
 
 ## Urban-Rural Divides and Place-Based Politics
 
+- Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. “Place Consciousness and Voting in Canada.” _Canadian Journal of Political Science_.
 - Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. Forthcoming. “Urban-Rural Issue Divides.” _European Journal of Political Research._
 - Borwein, Sophie and **Jack Lucas**. Forthcoming. "Place Types." _Canadian Journal of Political Science_.
 - Borwein, Sophie, **Jack Lucas**, and Cameron Anderson. Forthcoming. "[Lay Theories of Place Effects](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12959)." _Political Psychology_ 45 (6): 1069-1086.
@@ -44,7 +45,7 @@ layout: default
 
 ## Urban Political Development and Municipal Governance
 
-- Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. Forthoming. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press.
+- Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. 2025. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press.
 - **Lucas, Jack**. Forthcoming. "Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta." _Urban History Review_. 
 - Breton, Charles, **Jack Lucas**, and Zack Taylor. 2023. "[Local Autonomy: Unconditional Elites and Conditional Publics.](https://www.tandfonline.com/doi/abs/10.1080/03003930.2022.2098722)" _Local Government Studies_ 49 (6): 1263-1284. 
 - Eidelman, Gabriel and **Jack Lucas**. 2023. "[How Do Municipal Mayors and Councillors Communicate with other Levels of Government? Evidence from a Multi-level Survey of Canadian Elected Officials](https://t.co/9n0aJPJYZu)" _Canadian Public Administration_ 66(1): 78-95
