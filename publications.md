@@ -16,8 +16,8 @@ Please [click here](https://lucasjacklucas.github.io/pubs-theme) for a list of p
 
 ### Forthcoming
 
+- Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. “Place Consciousness and Voting in Canada.” _Canadian Journal of Political Science_.
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." _Political Science Research and Methods._ 
-- Dillabough, Elliot and **Jack Lucas**. Forthcoming. "Municipal Politicians and Local Electoral Institutions in Canada: An Overview." _Canadian Public Administration._
 - **Lucas, Jack**. Forthcoming. "Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta." _Urban History Review_. 
 - McGregor, R. Michael, Laura Stephenson, Helen Hayes, Cameron Anderson, and **Jack Lucas**. Forthcoming. "Understanding Public Support for Electoral Reform in Ontario, Canada." _Election Law Journal._
 
@@ -25,6 +25,7 @@ Please [click here](https://lucasjacklucas.github.io/pubs-theme) for a list of p
 
 - Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. 2025. “Urban-Rural Issue Divides.” _European Journal of Political Research_ 64 (4): 1827-1848.
 - Borwein, Sophie and **Jack Lucas**. 2025. "[Place Types](https://doi.org/10.1017/S0008423924000842)." _Canadian Journal of Political Science_ 58 (2): 380-396. 
+- Dillabough, Elliot and **Jack Lucas**. 2025. "Municipal Politicians and Local Electoral Institutions in Canada: An Overview." _Canadian Public Administration_ 68 (1): 135-146. 
 - **Lucas, Jack**, Lior Sheffer, Peter Loewen, Stefaan Walgrave, Karolin Soontjens, Eran Amsalem, Stefanie Bailer, Nathalie Brack, Christian Breunig, Pirmin Bundi, Linda Coufalová, Patrick Dumont, Sarah Lachance, Miguel Pereira, Mikael Persson, Jean-Benoit Pilet, Anne Rasmussen, Maj-Britt Sterba, and Frédéric Varone. 2025. "[Politicians' Theories of Voting Behavior](https://www.cambridge.org/core/journals/american-political-science-review/article/politicians-theories-of-voting-behavior/E73E1B173B30EC11DFB413FA3E3160D1)." _American Political Science Review_ 119 (3): 1304-1321. // [Data and Replication Files](https://doi.org/10.7910/DVN/QRAUDJ)
 - **Lucas, Jack**, Lior Sheffer, and Peter Loewen. 2025. "[Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians](https://link.springer.com/article/10.1007/s11109-024-09982-2)." _Political Behavior_ 47: 1113–1132. // [Data and Replication Files](https://doi.org/10.5683/SP3/OXPO3L), [Supplementary material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-024-09982-2/MediaObjects/11109_2024_9982_MOESM1_ESM.pdf), [Short Summary](https://theconversation.com/canadians-want-politicians-who-reflect-their-views-is-that-what-they-get-241331)
 - **Lucas, Jack** and Lior Sheffer. 2025. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians](https://doi.org/10.1111/pops.12974)." _Political Psychology_ 46 (1): 71-84.
