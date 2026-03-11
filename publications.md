@@ -57,9 +57,6 @@ layout: default
 - Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "Place Consciousness and Voting in Canada." _Canadian Journal of Political Science_.
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." _Political Science Research and Methods._
 - **Lucas, Jack**. Forthcoming. "Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta." _Urban History Review_.
-- **Lucas, Jack**. Forthcoming. "Calgary." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
-- Horak, Martin, **Jack Lucas**, and Zack Taylor. Forthcoming. "Introduction: Bringing Local Politics Back In." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
-- Horak, Martin, **Jack Lucas**, and Zack Taylor. Forthcoming. "Conclusion: Change and Continuity in Canadian City Politics." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
 
 ### 2026
 
@@ -67,6 +64,9 @@ layout: default
 
 ### 2025
 
+- **Lucas, Jack**. 2025. "Calgary." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
+- Horak, Martin, **Jack Lucas**, and Zack Taylor. 2025. "Introduction: Bringing Local Politics Back In." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
+- Horak, Martin, **Jack Lucas**, and Zack Taylor. 2025. "Conclusion: Change and Continuity in Canadian City Politics." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
 - Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. 2025. "Urban-Rural Issue Divides." _European Journal of Political Research_ 64 (4): 1827-1848.
 - Borwein, Sophie and **Jack Lucas**. 2025. "[Place Types](https://doi.org/10.1017/S0008423924000842)." _Canadian Journal of Political Science_ 58 (2): 380-396.
 - Dillabough, Elliot and **Jack Lucas**. 2025. "Municipal Politicians and Local Electoral Institutions in Canada: An Overview." _Canadian Public Administration_ 68 (1): 135-146.
@@ -221,9 +221,9 @@ layout: default
 ## Urban Political Development and Municipal Governance
 
 - Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. 2025. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press.
-- **Lucas, Jack**. Forthcoming. "Calgary." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
-- Horak, Martin, **Jack Lucas**, and Zack Taylor. Forthcoming. "Introduction: Bringing Local Politics Back In." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
-- Horak, Martin, **Jack Lucas**, and Zack Taylor. Forthcoming. "Conclusion: Change and Continuity in Canadian City Politics." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
+- **Lucas, Jack**. 2025. "Calgary." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
+- Horak, Martin, **Jack Lucas**, and Zack Taylor. 2025. "Introduction: Bringing Local Politics Back In." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
+- Horak, Martin, **Jack Lucas**, and Zack Taylor. 2025. "Conclusion: Change and Continuity in Canadian City Politics." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
 - **Lucas, Jack** and Alison Smith. 2025. "Performance, Effectiveness, and Legitimacy in Canadian Municipal IGR." In _Canadian Federalism: Performance, Effectiveness, and Efficiency_ (5th Ed.), edited by Herman Bakvis and Grace Skogstad. Toronto: University of Toronto Press.
 - **Lucas, Jack**. Forthcoming. "Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta." _Urban History Review_.
 - Breton, Charles, **Jack Lucas**, and Zack Taylor. 2023. "[Local Autonomy: Unconditional Elites and Conditional Publics.](https://www.tandfonline.com/doi/abs/10.1080/03003930.2022.2098722)" _Local Government Studies_ 49 (6): 1263-1284.
