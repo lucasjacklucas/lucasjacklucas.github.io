@@ -56,10 +56,10 @@ layout: default
 
 - Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "Place Consciousness and Voting in Canada." _Canadian Journal of Political Science_.
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." _Political Science Research and Methods._
-- **Lucas, Jack**. Forthcoming. "Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta." _Urban History Review_.
 
 ### 2026
 
+- **Lucas, Jack**. 2026. "[Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta.](https://utppublishing.com/doi/abs/10.3138/uhr-2024-0027)" _Urban History Review_ 54(1): 37-53.
 - McGregor, R. Michael, Laura Stephenson, Helen Hayes, Cameron Anderson, and **Jack Lucas**. 2026. "Understanding Public Support for Electoral Reform in Ontario, Canada." _Election Law Journal_ 25 (1): 5-18.
 
 ### 2025
@@ -219,7 +219,7 @@ layout: default
 
 ## Urban Political Development and Municipal Governance
 
-- **Lucas, Jack**. Forthcoming. "Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta." _Urban History Review_.
+- **Lucas, Jack**. 2026. "[Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta.](https://utppublishing.com/doi/abs/10.3138/uhr-2024-0027)" _Urban History Review_ 54(1): 37-53.
 - Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. 2025. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press.
 - **Lucas, Jack**. 2025. "Calgary." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
 - Horak, Martin, **Jack Lucas**, and Zack Taylor. 2025. "Introduction: Bringing Local Politics Back In." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
