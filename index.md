@@ -3,7 +3,7 @@ layout: default
 ---
 <img class="profile-picture" src="profile.jpg">
 
-Thanks for visiting this site! I'm a Professor in the Department of Political Science at the University of Calgary. My research and teaching are in the area of Canadian politics, with a particular focus on political representation, public opinion, and voting behaviour in local and urban politics. 
+Thanks for visiting this site! I'm a Professor in the Department of Political Science at the University of Calgary. My research and teaching are in the area of Canadian politics, with a particular focus on political representation, public opinion, and voting behaviour in local and urban politics. I'm especially interested in "implicit" or "lay" theories of politics—the working assumptions that shape how politicians and citizens understand political life.
 
 ## Questions I'm Working On
 
