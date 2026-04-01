@@ -21,7 +21,7 @@ We've learned a great deal about public opinion on national issues, but we know 
 
 While these questions largely structure my current research, I've been fortunate to work with great collaborators on many other interesting questions related to local elections, urban-rural divides, Canadian political development, and urban governance. You can find more information about this work on my [research page](https://lucasjacklucas.github.io/publications). 
 
-## Projects and Collaborations
+## Active Projects
 
 I co-direct the [Canadian Municipal Barometer](http://www.cmb-bmc.ca) with Sandra Breux, a research partnership focused on municipal democracy and representation in Canada. I'm also Canadian co-PI of [POLPOP-II](https://www.uantwerpen.be/en/research-groups/m2p/polpop/polpop_2/), a comparative study of politicians in thirteen countries, and Principal Investigator for the [Canadian Voting and Policy Attitudes](https://quantoid.shinyapps.io/cvpa_app/) Project.
 You can reach me at [jack.lucas@ucalgary.ca](mailto:jack.lucas@ucalgary.ca).
