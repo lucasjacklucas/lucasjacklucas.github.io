@@ -176,6 +176,7 @@ layout: default
 
 ## Political Representation and Elite Behaviour
 
+- **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_. 
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." _Political Science Research and Methods._
 - **Lucas, Jack**, Lior Sheffer, and Peter Loewen. 2025. "[Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians](https://link.springer.com/article/10.1007/s11109-024-09982-2)." _Political Behavior_ 47: 1113–1132. // [Data and Replication Files](https://doi.org/10.5683/SP3/OXPO3L), [Supplementary material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-024-09982-2/MediaObjects/11109_2024_9982_MOESM1_ESM.pdf), [Short Summary](https://theconversation.com/canadians-want-politicians-who-reflect-their-views-is-that-what-they-get-241331)
 - **Lucas, Jack** and Lior Sheffer. 2025. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians](https://doi.org/10.1111/pops.12974)." _Political Psychology_ 46 (1): 71-84.
