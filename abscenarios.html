@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What would it take? — Alberta Referendum Scenario Explorer</title>
+<style>
+  :root {
+    --bg:#f4f5f3; --card:#fff; --ink:#1c1c1e; --muted:#6b6b70; --line:#e2e2e0;
+    --accent:#2563a8; --persuade:#6d3aa6; --mobilize:#1f7a8c;
+    --win:#2f7d52; --lose:#b03a2e; --basecol:#9a9aa0;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+         background:var(--bg); color:var(--ink); line-height:1.45; }
+  .wrap { max-width:820px; margin:0 auto; padding:20px 16px 64px; }
+  h1 { font-size:1.4rem; margin:0 0 4px; }
+  h2 { font-size:1.08rem; margin:22px 0 10px; }
+  .intro { background:var(--card); border:1px solid var(--line); border-radius:10px;
+           padding:14px 16px; font-size:.92rem; color:var(--muted); margin:12px 0 16px; }
+  .intro strong { color:var(--ink); }
+  .pill { display:inline-block; padding:1px 7px; border-radius:20px; font-size:.78rem; font-weight:600; color:#fff; }
+  .pill.p { background:var(--persuade); } .pill.m { background:var(--mobilize); }
+
+  .topbar { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:14px; }
+  .scenario-bar { display:flex; align-items:center; gap:10px; margin-bottom:12px; flex-wrap:wrap; }
+  .scenario-bar label { font-weight:600; }
+  select { font-size:1rem; padding:7px 10px; border-radius:8px; border:1px solid var(--line);
+           background:var(--card); color:var(--ink); flex:1; min-width:200px; }
+  .global-row { display:grid; grid-template-columns:210px 1fr 92px; align-items:center; gap:10px; margin:9px 0; }
+  .global-row label { font-size:.9rem; }
+  .global-row .hint { font-size:.78rem; color:var(--muted); }
+  input[type=range]{ width:100%; accent-color:var(--accent); }
+  .val { font-variant-numeric:tabular-nums; text-align:right; font-size:.9rem; font-weight:600; }
+
+  .scoreboard { display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-top:6px;
+                font-size:.92rem; border-top:1px dashed var(--line); padding-top:10px; }
+  .scoreboard .big { font-size:1.5rem; font-weight:800; font-variant-numeric:tabular-nums; }
+
+  .qcard { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:13px 15px; margin-bottom:12px; }
+  .qcard-title { font-weight:600; font-size:.96rem; display:flex; justify-content:space-between; gap:10px; align-items:baseline; }
+  .status { font-size:.8rem; font-weight:700; white-space:nowrap; }
+  .status.win { color:var(--win); } .status.lose { color:var(--lose); }
+
+  .observed { margin:8px 0 6px; }
+  .obs-grid { display:grid; grid-template-columns:200px 1fr 60px; align-items:center; gap:8px 10px; }
+  .obs-grid label { font-size:.82rem; color:var(--muted); }
+  .obs-grid input[type=range]{ accent-color:#888; }
+  .derived { font-size:.8rem; color:var(--muted); margin-top:5px; font-variant-numeric:tabular-nums; }
+
+  .yesbar { position:relative; height:16px; background:#ededeb; border-radius:4px; margin:9px 0 4px; }
+  .yesbar-fill { position:absolute; left:0; top:0; bottom:0; width:0%; background:#c9a23a;
+                 border-radius:4px 0 0 4px; transition:width .08s linear; }
+  .yesbar-fill.no { background:var(--win); }
+  .yesbar-50 { position:absolute; left:50%; top:-2px; bottom:-2px; width:2px; background:#333; opacity:.75; }
+  .yesbar-cap { position:absolute; right:4px; top:-19px; font-size:.72rem; color:var(--muted); }
+
+  .reqs { display:flex; flex-direction:column; gap:8px; margin-top:9px; }
+  @media (max-width:620px){ .obs-grid{ grid-template-columns:150px 1fr 52px; } .global-row{ grid-template-columns:150px 1fr 80px; } }
+  .req { border:1px solid var(--line); border-radius:8px; padding:9px 12px; border-left:4px solid var(--line);
+         font-size:.88rem; line-height:1.55; }
+  .req.req-p { border-left-color:var(--persuade); }
+  .req.req-t { border-left-color:var(--mobilize); }
+  .req.won { border-left-color:var(--win); }
+  .req b { font-variant-numeric:tabular-nums; white-space:nowrap; }
+  .req .tag { font-weight:700; }
+  .req .tag.p { color:var(--persuade); }
+  .req .tag.t { color:var(--mobilize); }
+  .req .tag.win { color:var(--win); }
+  .req .tag.no { color:var(--lose); }
+  .req.hidden { display:none; }
+
+  .legend { font-size:.8rem; color:var(--muted); margin:6px 0 0; }
+  .foot { font-size:.8rem; color:var(--muted); margin-top:24px; }
+  .hidden { display:none !important; }
+  code { background:#eee; padding:1px 4px; border-radius:3px; font-size:.85em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>What would it take to win <span style="color:var(--win)">NO</span> on the Nine?</h1>
+  <div class="intro">
+    Say you wanted Albertans to vote <strong>NO</strong> on the nine ballot
+    questions — the immigration and constitutional ones — as part of a campaign
+    to keep Alberta in Canada (a <strong>Remain</strong> vote on separation).
+    What would it actually take?
+    <br><br>
+    For each question, this tool shows two routes to a NO, and exactly how much
+    of each you'd need: <span class="pill p">persuade</span> some Remain
+    supporters to vote No on that question, or <span class="pill m">turn out</span>
+    more Remain voters than the other side. When a route simply can't work for a
+    question, it says so and explains why.
+    <br><br>
+    Set the numbers with the sliders below, or pick a starting point from the
+    <strong>Scenario</strong> menu.
+  </div>
+
+  <div class="topbar">
+    <div class="scenario-bar">
+      <label for="scenario">Scenario</label>
+      <select id="scenario" onchange="onScenarioChange()"></select>
+    </div>
+    <div class="global-row">
+      <label>Overall support for <b>Remain</b></label>
+      <input type="range" id="remain" min="0" max="100" step="0.5" value="62" oninput="onRemainInput()">
+      <span class="val" id="remain-val">62.0%</span>
+    </div>
+    <div class="global-row">
+      <label>Average turnout <span class="hint">(held fixed; the gap opens around it)</span></label>
+      <input type="range" id="avg-turnout" min="20" max="90" step="1" value="60" oninput="onSliderInput()">
+      <span class="val" id="avg-turnout-val">60%</span>
+    </div>
+    <div class="scoreboard">
+      <span>As things stand (equal turnout, no campaign), <b>NO</b> already wins</span>
+      <span class="big" id="score">— / 9</span>
+      <span class="hint" id="begin-readout"></span>
+    </div>
+  </div>
+
+  <h2>What each question would take</h2>
+  <div class="legend">
+    Each card lets you set the <b>observed data</b> (the sliders), shows the
+    question's current <b>Yes share</b> with the 50% line, then spells out two
+    independent ways to flip it to <b>NO</b>:
+    <span class="pill p">persuade</span> Remain voters to switch, or open a
+    <span class="pill m">turnout gap</span> favouring Remain. When a lever can't
+    win the question on its own, the card explains why.
+  </div>
+  <div id="cards">
+
+        <div class="qcard" id="qcard-1">
+          <div class="qcard-title"><span id="qlabel-1"></span>
+            <span class="status" id="status-1"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q1">Overall support (Yes)</label>
+              <input type="range" id="support-q1" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q1-val">55.0%</span>
+
+              <label for="rsupport-q1">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q1" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q1-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-1"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-1"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-1"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-1"></div>
+            <div class="req req-t" id="reqt-1"></div>
+          </div>
+        </div>
+
+        <div class="qcard" id="qcard-2">
+          <div class="qcard-title"><span id="qlabel-2"></span>
+            <span class="status" id="status-2"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q2">Overall support (Yes)</label>
+              <input type="range" id="support-q2" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q2-val">55.0%</span>
+
+              <label for="rsupport-q2">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q2" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q2-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-2"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-2"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-2"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-2"></div>
+            <div class="req req-t" id="reqt-2"></div>
+          </div>
+        </div>
+
+        <div class="qcard" id="qcard-3">
+          <div class="qcard-title"><span id="qlabel-3"></span>
+            <span class="status" id="status-3"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q3">Overall support (Yes)</label>
+              <input type="range" id="support-q3" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q3-val">55.0%</span>
+
+              <label for="rsupport-q3">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q3" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q3-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-3"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-3"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-3"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-3"></div>
+            <div class="req req-t" id="reqt-3"></div>
+          </div>
+        </div>
+
+        <div class="qcard" id="qcard-4">
+          <div class="qcard-title"><span id="qlabel-4"></span>
+            <span class="status" id="status-4"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q4">Overall support (Yes)</label>
+              <input type="range" id="support-q4" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q4-val">55.0%</span>
+
+              <label for="rsupport-q4">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q4" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q4-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-4"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-4"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-4"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-4"></div>
+            <div class="req req-t" id="reqt-4"></div>
+          </div>
+        </div>
+
+        <div class="qcard" id="qcard-5">
+          <div class="qcard-title"><span id="qlabel-5"></span>
+            <span class="status" id="status-5"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q5">Overall support (Yes)</label>
+              <input type="range" id="support-q5" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q5-val">55.0%</span>
+
+              <label for="rsupport-q5">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q5" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q5-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-5"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-5"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-5"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-5"></div>
+            <div class="req req-t" id="reqt-5"></div>
+          </div>
+        </div>
+
+        <div class="qcard" id="qcard-6">
+          <div class="qcard-title"><span id="qlabel-6"></span>
+            <span class="status" id="status-6"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q6">Overall support (Yes)</label>
+              <input type="range" id="support-q6" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q6-val">55.0%</span>
+
+              <label for="rsupport-q6">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q6" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q6-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-6"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-6"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-6"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-6"></div>
+            <div class="req req-t" id="reqt-6"></div>
+          </div>
+        </div>
+
+        <div class="qcard" id="qcard-7">
+          <div class="qcard-title"><span id="qlabel-7"></span>
+            <span class="status" id="status-7"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q7">Overall support (Yes)</label>
+              <input type="range" id="support-q7" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q7-val">55.0%</span>
+
+              <label for="rsupport-q7">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q7" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q7-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-7"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-7"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-7"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-7"></div>
+            <div class="req req-t" id="reqt-7"></div>
+          </div>
+        </div>
+
+        <div class="qcard" id="qcard-8">
+          <div class="qcard-title"><span id="qlabel-8"></span>
+            <span class="status" id="status-8"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q8">Overall support (Yes)</label>
+              <input type="range" id="support-q8" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q8-val">55.0%</span>
+
+              <label for="rsupport-q8">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q8" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q8-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-8"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-8"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-8"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-8"></div>
+            <div class="req req-t" id="reqt-8"></div>
+          </div>
+        </div>
+
+        <div class="qcard" id="qcard-9">
+          <div class="qcard-title"><span id="qlabel-9"></span>
+            <span class="status" id="status-9"></span></div>
+
+          <div class="observed">
+            <div class="obs-grid">
+              <label for="support-q9">Overall support (Yes)</label>
+              <input type="range" id="support-q9" min="0" max="100" step="0.5" value="55" oninput="onSliderInput()">
+              <span class="val" id="support-q9-val">55.0%</span>
+
+              <label for="rsupport-q9">…of Remain voters who back it</label>
+              <input type="range" id="rsupport-q9" min="0" max="100" step="0.5" value="45" oninput="onSliderInput()">
+              <span class="val" id="rsupport-q9-val">45.0%</span>
+            </div>
+            <div class="derived" id="derived-9"></div>
+          </div>
+
+          <div class="yesbar">
+            <div class="yesbar-fill" id="yesfill-9"></div>
+            <div class="yesbar-50"></div>
+            <div class="yesbar-cap" id="yescap-9"></div>
+          </div>
+
+          <div class="reqs">
+            <div class="req req-p" id="reqp-9"></div>
+            <div class="req req-t" id="reqt-9"></div>
+          </div>
+        </div>
+  </div>
+</div>
+
+<script>
+const DATA = {
+  "questionLabels": [
+    "Q1 \u2014 Immigration: provincial control to lower levels & give Albertans first priority for jobs",
+    "Q2 \u2014 Immigration: limit provincially-funded programs to citizens, PRs & approved status",
+    "Q3 \u2014 Immigration: 12-month residency before non-permanent residents get social supports",
+    "Q4 \u2014 Immigration: charge non-permanent residents fees for health care & education",
+    "Q5 \u2014 Voting: require proof of citizenship to vote in provincial elections",
+    "Q6 \u2014 Constitution: province (not Ottawa) appoints King's Bench & Court of Appeal justices",
+    "Q7 \u2014 Constitution: abolish the unelected federal Senate",
+    "Q8 \u2014 Constitution: let provinces opt out of federal programs without losing funding",
+    "Q9 \u2014 Constitution: give provincial law priority over conflicting federal law"
+  ],
+  "numQuestions": 9,
+  "scenarios": [
+    {
+      "name": "Janet Brown 2026 (Q1 & Q3 real; rest estimated)",
+      "remain_support": 67.0,
+      "avg_turnout": 60.0,
+      "support_q": [
+        57.0,
+        50.0,
+        45.0,
+        44.0,
+        60.0,
+        42.0,
+        50.0,
+        48.0,
+        46.0
+      ],
+      "rsupport_q": [
+        40.0,
+        36.0,
+        32.0,
+        32.0,
+        45.0,
+        30.0,
+        36.0,
+        34.0,
+        32.0
+      ]
+    },
+    {
+      "name": "Stress test \u2014 Remain minority (45%)",
+      "remain_support": 45.0,
+      "avg_turnout": 58.0,
+      "support_q": [
+        72.0,
+        68.0,
+        60.0,
+        55.0,
+        66.0,
+        48.0,
+        62.0,
+        58.0,
+        52.0
+      ],
+      "rsupport_q": [
+        45.0,
+        42.0,
+        40.0,
+        38.0,
+        58.0,
+        40.0,
+        44.0,
+        47.0,
+        41.0
+      ]
+    },
+    {
+      "name": "Stress test \u2014 Remain strongly leans NO (67%)",
+      "remain_support": 67.0,
+      "avg_turnout": 60.0,
+      "support_q": [
+        54.0,
+        52.0,
+        50.0,
+        49.0,
+        58.0,
+        45.0,
+        53.0,
+        51.0,
+        47.0
+      ],
+      "rsupport_q": [
+        36.0,
+        33.0,
+        30.0,
+        29.0,
+        40.0,
+        30.0,
+        34.0,
+        32.0,
+        30.0
+      ]
+    }
+  ]
+};
+const NQ = DATA.numQuestions;
+function $(id){ return document.getElementById(id); }
+function clamp(x,lo,hi){ return Math.max(lo,Math.min(hi,x)); }
+let suppressScenarioReset = false;
+
+// ---- model ----------------------------------------------------------------
+// All rates as fractions. R = Remain share. q = overall Yes. yR = Yes-rate
+// among Remain voters. Derived yL = Yes-rate among leave voters.
+function deriveYL(R, q, yR){
+  R = clamp(R, 1e-6, 1-1e-6);
+  return clamp((q - R*yR)/(1-R), 0, 1);
+}
+
+// Persuasion-only requirement (turnout held equal). Returns one of:
+//  {won}, {impossible}, or {points, max}  — points of the Remain camp to flip.
+function persuasionReq(R, q, yR){
+  if (q <= 0.5) return {won:true};
+  const yL = deriveYL(R, q, yR);
+  if ((1-R)*yL > 0.5 + 1e-9) return {impossible:true};   // leave carries it
+  R = clamp(R, 1e-6, 1-1e-6);
+  const points = 100*(q - 0.5)/R;        // points of Remain camp shifted to NO
+  return {points: points, max: yR*100};  // max = Remain voters currently Yes
+}
+
+// Turnout-only requirement (no persuasion). Average turnout fixed; gap opens
+// symmetrically (Remain = avg+g/2, leave = avg-g/2). Returns:
+//  {won}, {impossibleMajority}, {impossibleBase}, or {gap, tR, tL}
+function turnoutReq(R, q, yR, avg){
+  if (q <= 0.5) return {won:true};
+  if (yR >= 0.5 - 1e-9) return {impossibleMajority:true};  // turnout helps Yes
+  const yL = deriveYL(R, q, yR);
+  const gmax = 2*Math.min(avg, 1-avg);
+  const yesAt = function(g){
+    const tR = avg + g/2, tL = avg - g/2;
+    const den = R*tR + (1-R)*tL;
+    return den<=1e-12 ? 1 : (R*tR*yR + (1-R)*tL*yL)/den;
+  };
+  if (yesAt(gmax) > 0.5) return {impossibleBase:true};
+  // bisection: yesAt is decreasing in g
+  let lo=0, hi=gmax;
+  for (let it=0; it<48; it++){
+    const mid=(lo+hi)/2;
+    if (yesAt(mid) > 0.5) lo=mid; else hi=mid;
+  }
+  const g=(lo+hi)/2;
+  return {gap: g*100, tR:(avg+g/2)*100, tL:(avg-g/2)*100};
+}
+
+// ---- render ----
+function fmtPct(x){ return (x*100).toFixed(1)+"%"; }
+function readGlobal(){
+  return { R: parseFloat($("remain").value)/100,
+           avg: parseFloat($("avg-turnout").value)/100 };
+}
+
+function render(){
+  const {R, avg} = readGlobal();
+  $("remain-val").textContent = fmtPct(R);
+  $("avg-turnout-val").textContent = Math.round(avg*100)+"%";
+  $("begin-readout").textContent = "Leave camp = " + fmtPct(1-R) + " of the electorate.";
+
+  let noWins = 0;
+  for (let i=1;i<=NQ;i++){
+    const q = parseFloat($("support-q"+i).value)/100;
+    const yR = parseFloat($("rsupport-q"+i).value)/100;
+    $("support-q"+i+"-val").textContent = fmtPct(q);
+    $("rsupport-q"+i+"-val").textContent = fmtPct(yR);
+    const yL = deriveYL(R, q, yR);
+
+    // status + yes bar (baseline = equal turnout, no campaign -> Yes = q).
+    // A question only passes with a Yes majority, so a 50% tie => NO wins.
+    const winningNow = q <= 0.5;
+    if (winningNow) noWins++;
+    const st = $("status-"+i);
+    st.textContent = winningNow ? ("NO winning · Yes "+fmtPct(q)) : ("Yes winning · "+fmtPct(q));
+    st.className = "status " + (winningNow ? "win" : "lose");
+    const fill = $("yesfill-"+i);
+    fill.style.width = (q*100)+"%";
+    fill.classList.toggle("no", winningNow);
+    $("yescap-"+i).textContent = "Yes "+fmtPct(q);
+    $("derived-"+i).innerHTML =
+      "Implied: <b>"+fmtPct(yR)+"</b> of Remain voters and <b>"+fmtPct(yL)+
+      "</b> of leave voters back it.";
+
+    // Requirement sentences. n() formats a percentage, trimming a trailing .0
+    const n = function(x){ return (Math.round(x*10)/10).toString(); };
+    const reqp = $("reqp-"+i);
+    const reqt = $("reqt-"+i);
+    const ctx = "With Remain support at <b>"+n(R*100)+"%</b>, overall Yes support <b>"+
+                n(q*100)+"%</b>, and Yes support among Remain voters <b>"+n(yR*100)+"%</b>, ";
+
+    if (winningNow){
+      // Yes is already not a majority — NO wins with no campaign.
+      reqp.className="req won";
+      reqp.innerHTML="<span class='tag win'>NO already wins.</span> "+ctx+
+        "Yes is not a majority, so this question fails without any campaign.";
+      reqt.className="req hidden"; reqt.innerHTML="";
+    } else {
+      // --- persuasion sentence ---
+      const pr = persuasionReq(R, q, yR);
+      if (pr.impossible){
+        const floor = (1-R)*deriveYL(R,q,yR);   // Yes if every Remain voter flips to No
+        reqp.className="req req-p";
+        reqp.innerHTML="<span class='tag no'>Persuasion alone can't win this.</span> "+ctx+
+          "even if <b>every</b> Remain voter switched to No, Yes would still be <b>"+n(floor*100)+
+          "%</b> — the Leave camp (<b>"+n((1-R)*100)+"%</b> of voters, <b>"+n(deriveYL(R,q,yR)*100)+
+          "%</b> backing it) carries it past 50% on its own.";
+      } else {
+        const downTo = yR*100 - pr.points;
+        reqp.className="req req-p";
+        reqp.innerHTML="<span class='tag p'>Persuasion.</span> "+ctx+
+          "NO could win by moving Yes support among Remain voters from <b>"+n(yR*100)+
+          "%</b> down to <b>"+n(downTo)+"%</b> — a shift of <b>"+n(pr.points)+" percentage points</b>.";
+      }
+      // --- turnout sentence ---
+      const tr = turnoutReq(R, q, yR, avg);
+      if (tr.impossibleMajority){
+        reqt.className="req req-t";
+        reqt.innerHTML="<span class='tag no'>Turnout alone can't win this.</span> A majority of Remain "+
+          "voters (<b>"+n(yR*100)+"%</b>) already back it, so turning Remain out only raises Yes, not No.";
+      } else if (tr.impossibleBase){
+        reqt.className="req req-t";
+        reqt.innerHTML="<span class='tag no'>Turnout alone can't win this.</span> Even the largest possible "+
+          "gap at <b>"+n(avg*100)+"%</b> average turnout still leaves Yes above 50%.";
+      } else {
+        reqt.className="req req-t";
+        reqt.innerHTML="<span class='tag t'>Turnout.</span> With Remain support at <b>"+n(R*100)+
+          "%</b>, overall turnout <b>"+n(avg*100)+"%</b>, Yes support <b>"+n(q*100)+
+          "%</b>, and Yes support among Remain voters <b>"+n(yR*100)+
+          "%</b>, the turnout gap would need to be <b>"+n(tr.gap)+" points</b> to generate a NO on this "+
+          "question — that is, turnout would need to be <b>"+n(tr.tR)+"%</b> among Remain voters and <b>"+
+          n(tr.tL)+"%</b> among Leave voters.";
+      }
+    }
+  }
+  $("score").textContent = noWins + " / 9";
+  $("score").style.color = noWins>=5 ? "var(--win)" : (noWins<=2 ? "var(--lose)" : "var(--ink)");
+}
+
+// ---- handlers / scenarios ----
+function onSliderInput(){
+  render();
+  if (!suppressScenarioReset) $("scenario").value = "__custom__";
+}
+
+// Moving the Remain slider reweights the electorate: each camp's support RATE
+// (yR among Remain, yL among Leave — the implied correlation structure) is held
+// fixed, and each question's overall support q = R*yR + (1-R)*yL is recomputed.
+// So shifting toward Leave (lower R) raises support on questions Leave voters
+// favour, and lowers the chance of NO — driven by the implied correlations.
+let lastR = 62;  // previous Remain value (percent), used to recover yL
+function onRemainInput(){
+  const oldR = clamp(lastR/100, 1e-3, 1-1e-3);
+  const newR = clamp(parseFloat($("remain").value)/100, 1e-3, 1-1e-3);
+  for (let i=1;i<=NQ;i++){
+    const q  = parseFloat($("support-q"+i).value)/100;
+    const yR = parseFloat($("rsupport-q"+i).value)/100;
+    const yL = clamp((q - oldR*yR)/(1-oldR), 0, 1);     // recover Leave-camp rate
+    const newQ = clamp(newR*yR + (1-newR)*yL, 0, 1);    // reweight to new mix
+    $("support-q"+i).value = (newQ*100).toFixed(1);
+  }
+  lastR = parseFloat($("remain").value);
+  onSliderInput();
+}
+function populateScenarioDropdown(){
+  const sel=$("scenario");
+  const c=document.createElement("option"); c.value="__custom__"; c.textContent="Custom"; sel.appendChild(c);
+  DATA.scenarios.forEach(function(sc,idx){
+    const o=document.createElement("option"); o.value=String(idx); o.textContent=sc.name; sel.appendChild(o);
+  });
+}
+function applyScenario(sc){
+  suppressScenarioReset=true;
+  $("remain").value = sc.remain_support;
+  $("avg-turnout").value = sc.avg_turnout;
+  for (let i=1;i<=NQ;i++){
+    $("support-q"+i).value = sc.support_q[i-1];
+    $("rsupport-q"+i).value = sc.rsupport_q[i-1];
+  }
+  lastR = sc.remain_support;
+  render();
+  suppressScenarioReset=false;
+}
+function onScenarioChange(){
+  const v=$("scenario").value;
+  if (v==="__custom__") return;
+  applyScenario(DATA.scenarios[parseInt(v,10)]);
+}
+function init(){
+  for (let i=1;i<=NQ;i++) $("qlabel-"+i).textContent = DATA.questionLabels[i-1];
+  populateScenarioDropdown();
+  if (DATA.scenarios.length>0){ $("scenario").value="0"; applyScenario(DATA.scenarios[0]); }
+  else { $("scenario").value="__custom__"; render(); }
+}
+init();
+</script>
+</body>
+</html>
