@@ -57,7 +57,8 @@ layout: default
 - Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "Place Consciousness and Voting in Canada." _Canadian Journal of Political Science_.
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." _Political Science Research and Methods._
 - **Lucas, Jack**, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. Forthcoming. "Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics." _Nature Cities_.
-- **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_. 
+- **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_.
+- Vanhooren, Shanaya, **Jack Lucas**, and Sandra Breux. Forthcoming. "Municipal Issue Publics." _Urban Affairs Review_. 
 
 ### 2026
 
