@@ -44,7 +44,7 @@ layout: default
 
 ## Books
 
-- Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. 2025. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press.
+- Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. 2025. _[City Politics in Canada: Forty Years of Continuity and Change](https://utorontopress.com/9781487569334/city-politics-in-canada/)._ Toronto: University of Toronto Press.
 - **Lucas, Jack**. 2024. _[Ideology in Canadian Municipal Politics](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/)_. Toronto: University of Toronto Press.
    - _Winner, 2024 Seymour Martin Lipset Best Book Award, APSA Canadian Section._
 - **Lucas, Jack** and R. Michael McGregor, Eds. 2021. _[Big City Elections in Canada](https://utorontopress.com/9781487528560/big-city-elections-in-canada/)_. Toronto: University of Toronto Press.
@@ -226,7 +226,7 @@ layout: default
 ## Urban Political Development and Municipal Governance
 
 - **Lucas, Jack**. 2026. "[Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta.](https://utppublishing.com/doi/abs/10.3138/uhr-2024-0027)" _Urban History Review_ 54(1): 37-53.
-- Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. 2025. _City Politics in Canada: Forty Years of Continuity and Change._ Toronto: University of Toronto Press.
+- Horak, Martin, **Jack Lucas**, and Zack Taylor, Eds. 2025. _[City Politics in Canada: Forty Years of Continuity and Change](https://utorontopress.com/9781487569334/city-politics-in-canada/)._ Toronto: University of Toronto Press.
 - **Lucas, Jack**. 2025. "[Calgary](https://doi.org/10.3138/9781487569358-011)." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
 - Horak, Martin, **Jack Lucas**, and Zack Taylor. 2025. "[Introduction: Bringing Local Politics Back In](https://doi.org/10.3138/9781487569358-004)." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
 - Horak, Martin, **Jack Lucas**, and Zack Taylor. 2025. "[Conclusion: Change and Continuity in Canadian City Politics](https://doi.org/10.3138/9781487569358-012)." In Horak, Martin, Jack Lucas, and Zack Taylor, Eds. _City Politics in Canada_. Toronto: University of Toronto Press.
