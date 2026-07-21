@@ -206,6 +206,7 @@ layout: default
 
 ## Municipal Ideology / Policy Attitudes / Spatial Voting
 
+- Vanhooren, Shanaya, **Jack Lucas**, and Sandra Breux. Forthcoming. "Municipal Issue Publics." _Urban Affairs Review_. 
 - **Lucas, Jack**, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. Forthcoming. "Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics." _Nature Cities_. (Conditionally Accepted)
 - McPherson, Carter, **Jack Lucas**, and R. Michael McGregor. 2025. "[Issue Accountability in Non-Partisan Municipalities: A Case Study](https://doi.org/10.1177/10780874241270067)." _Urban Affairs Review_. 61 (3): 932–951.
 - Armstrong, David A. II, and **Jack Lucas**. 2024. "[The Structure of Municipal Voting in Vancouver](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2115377)." _Journal of Urban Affairs_ 46 (7): 1412-1433.
