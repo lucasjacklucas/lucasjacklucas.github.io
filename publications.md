@@ -54,8 +54,8 @@ layout: default
 
 ### Forthcoming
 
-- Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "Place Consciousness and Voting in Canada." _Canadian Journal of Political Science_.
-- Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." _Political Science Research and Methods._
+- Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "[Place Consciousness and Voting in Canada](https://doi.org/10.1017/s0008423926101127)." _Canadian Journal of Political Science_.
+- Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.1017/psrm.2025.10069)." _Political Science Research and Methods._
 - **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_.
 - Vanhooren, Shanaya, **Jack Lucas**, and Sandra Breux. Forthcoming. "Municipal Issue Publics." _Urban Affairs Review_. 
 
@@ -178,7 +178,7 @@ layout: default
 ## Political Representation and Elite Behaviour
 
 - **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_. 
-- Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." _Political Science Research and Methods._
+- Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.1017/psrm.2025.10069)." _Political Science Research and Methods._
 - **Lucas, Jack**, Lior Sheffer, and Peter Loewen. 2025. "[Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians](https://link.springer.com/article/10.1007/s11109-024-09982-2)." _Political Behavior_ 47: 1113–1132. // [Data and Replication Files](https://doi.org/10.5683/SP3/OXPO3L), [Supplementary material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-024-09982-2/MediaObjects/11109_2024_9982_MOESM1_ESM.pdf), [Short Summary](https://theconversation.com/canadians-want-politicians-who-reflect-their-views-is-that-what-they-get-241331)
 - **Lucas, Jack** and Lior Sheffer. 2025. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians](https://doi.org/10.1111/pops.12974)." _Political Psychology_ 46 (1): 71-84.
 - Franceschet, Susan, **Jack Lucas**, and Erica Rayment. 2024. "[Do Women Politicians Know More about Women's Policy Preferences? Evidence from Canada](https://www.cambridge.org/core/journals/politics-and-gender/article/do-women-politicians-know-more-about-womens-policy-preferences-evidence-from-canada/6BF3589BEDB1364B7E1343016E555C22)." _Politics & Gender_ 20 (3): 579-597.
@@ -190,7 +190,7 @@ layout: default
 
 ## Urban-Rural Divides and Place-Based Politics
 
-- Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "Place Consciousness and Voting in Canada." _Canadian Journal of Political Science_.
+- Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "[Place Consciousness and Voting in Canada](https://doi.org/10.1017/s0008423926101127)." _Canadian Journal of Political Science_.
 - Borwein, Sophie, **Jack Lucas**, Tyler Romualdi, Zack Taylor, David Armstrong, and Katie McCoy. 2025. "Urban-Rural Issue Divides." _European Journal of Political Research_ 64 (4): 1827-1848.
 - Borwein, Sophie and **Jack Lucas**. 2025. "[Place Types](https://doi.org/10.1017/S0008423924000842)." _Canadian Journal of Political Science_ 58 (2): 380-396.
 - Borwein, Sophie, **Jack Lucas**, and Cameron Anderson. 2024. "[Lay Theories of Place Effects](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12959)." _Political Psychology_ 45 (6): 1069-1086.
