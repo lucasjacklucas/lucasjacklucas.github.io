@@ -56,12 +56,12 @@ layout: default
 
 - Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "Place Consciousness and Voting in Canada." _Canadian Journal of Political Science_.
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.31219/osf.io/qsn65)." _Political Science Research and Methods._
-- **Lucas, Jack**, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. Forthcoming. "Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics." _Nature Cities_.
 - **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_.
 - Vanhooren, Shanaya, **Jack Lucas**, and Sandra Breux. Forthcoming. "Municipal Issue Publics." _Urban Affairs Review_. 
 
 ### 2026
 
+- **Lucas, Jack**, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. 2026. "[Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics](https://doi.org/10.1038/s44284-026-00450-y)." _Nature Cities_ 3 (6): 514-522. // [Data and Replication Files](https://doi.org/10.5683/SP3/RUEI42)
 - **Lucas, Jack**. 2026. "[Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta.](https://utppublishing.com/doi/abs/10.3138/uhr-2024-0027)" _Urban History Review_ 54(1): 37-53.
 - McGregor, R. Michael, Laura Stephenson, Helen Hayes, Cameron Anderson, and **Jack Lucas**. 2026. "Understanding Public Support for Electoral Reform in Ontario, Canada." _Election Law Journal_ 25 (1): 5-18.
 
@@ -207,7 +207,7 @@ layout: default
 ## Municipal Ideology / Policy Attitudes / Spatial Voting
 
 - Vanhooren, Shanaya, **Jack Lucas**, and Sandra Breux. Forthcoming. "Municipal Issue Publics." _Urban Affairs Review_. 
-- **Lucas, Jack**, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. Forthcoming. "Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics." _Nature Cities_. (Conditionally Accepted)
+- **Lucas, Jack**, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. 2026. "[Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics](https://doi.org/10.1038/s44284-026-00450-y)." _Nature Cities_ 3 (6): 514-522. // [Data and Replication Files](https://doi.org/10.5683/SP3/RUEI42)
 - McPherson, Carter, **Jack Lucas**, and R. Michael McGregor. 2025. "[Issue Accountability in Non-Partisan Municipalities: A Case Study](https://doi.org/10.1177/10780874241270067)." _Urban Affairs Review_. 61 (3): 932–951.
 - Armstrong, David A. II, and **Jack Lucas**. 2024. "[The Structure of Municipal Voting in Vancouver](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2115377)." _Journal of Urban Affairs_ 46 (7): 1412-1433.
 - **Lucas, Jack**. 2024. _[Ideology in Canadian Municipal Politics](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/)_. Toronto: University of Toronto Press.
