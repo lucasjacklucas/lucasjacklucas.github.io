@@ -58,6 +58,7 @@ layout: default
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.1017/psrm.2025.10069)." _Political Science Research and Methods._ // [Data and Replication Files](https://doi.org/10.7910/DVN/QXWMDZ)
 - Ferland, Benjamin and **Jack Lucas**. Forthcoming. "Mass-Elite Congruence in Canada: A Study of Federal Candidates." _Canadian Journal of Political Science_.
 - **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_.
+- **Lucas, Jack**, R. Michael McGregor, Feodor Snagovsky, and Jared Wesley. Forthcoming. "Do Municipal Voters Punish Partisan Candidates? Evidence from a Newly Partisan Municipal Election." _Political Science Research and Methods_. _Conditionally accepted._
 - Rivard, Alex B. and **Jack Lucas**. Forthcoming. "[Do Local Politicians Share Their Constituents’ Attitudes on Housing Policy?](https://doi.org/10.1016/j.cities.2026.107529)" _Cities_.
 - Vanhooren, Shanaya, **Jack Lucas**, and Sandra Breux. Forthcoming. "[Municipal Issue Publics](https://journals.sagepub.com/doi/10.1177/10780874261475602)." _Urban Affairs Review_. 
 
@@ -260,6 +261,7 @@ layout: default
 
 ## Municipal Elections and Voting
 
+- **Lucas, Jack**, R. Michael McGregor, Feodor Snagovsky, and Jared Wesley. Forthcoming. "Do Municipal Voters Punish Partisan Candidates? Evidence from a Newly Partisan Municipal Election." _Political Science Research and Methods_. _Conditionally accepted._
 - McGregor, R. Michael, Laura Stephenson, Helen Hayes, Cameron Anderson, and **Jack Lucas**. 2026. "[Understanding Public Support for Electoral Reform in Ontario, Canada](https://doi.org/10.1089/elj.2024.0049)." _Election Law Journal_ 25 (1): 5-18.
 - Dillabough, Elliot and **Jack Lucas**. 2025. "[Municipal Politicians and Local Electoral Institutions in Canada: An Overview](https://doi.org/10.1111/capa.70006)." _Canadian Public Administration_ 68 (1): 135-146.
 - Anderson, Cameron, **Jack Lucas**, and R. Michael McGregor. 2024. "[Urban home values and multi-level political accountability: Evidence from Calgary, Canada.](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2101922)" _Journal of Urban Affairs_ 46(5): 1053-1069.
