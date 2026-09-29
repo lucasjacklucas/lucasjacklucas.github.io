@@ -56,7 +56,7 @@ layout: default
 
 - Borwein, Sophie, **Jack Lucas**, and Bradley Wood-MacLean. Forthcoming. "[Place Consciousness and Voting in Canada](https://doi.org/10.1017/s0008423926101127)." _Canadian Journal of Political Science_.
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.1017/psrm.2025.10069)." _Political Science Research and Methods._ // [Data and Replication Files](https://doi.org/10.7910/DVN/QXWMDZ)
-- Ferland, Benjamin and **Jack Lucas**. Forthcoming. "Mass-Elite Congruence in Canada: A Study of Federal Candidates." _Canadian Journal of Political Science_.
+- Ferland, Benjamin and **Jack Lucas**. Forthcoming. "[Mass-Elite Congruence in Canada: A Study of Federal Candidates](https://doi.org/10.1017/S0008423926101395)." _Canadian Journal of Political Science_.
 - **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_.
 - **Lucas, Jack**, R. Michael McGregor, Feodor Snagovsky, and Jared Wesley. Forthcoming. "Do Municipal Voters Punish Partisan Candidates? Evidence from a Newly Partisan Municipal Election." _Political Science Research and Methods_. _Conditionally accepted._
 - Rivard, Alex B. and **Jack Lucas**. Forthcoming. "[Do Local Politicians Share Their Constituents’ Attitudes on Housing Policy?](https://doi.org/10.1016/j.cities.2026.107529)" _Cities_.
@@ -182,7 +182,7 @@ layout: default
 
 - **Lucas, Jack**, Lior Sheffer, and Noam Titelman. Forthcoming. "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?" _American Political Science Review_. 
 - Dias, Nicholas, **Jack Lucas**, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About The Distribution of Public Attitudes Reduces Politicians' Perceptual Errors](https://doi.org/10.1017/psrm.2025.10069)." _Political Science Research and Methods._ // [Data and Replication Files](https://doi.org/10.7910/DVN/QXWMDZ)
-- Ferland, Benjamin and **Jack Lucas**. Forthcoming. "Mass-Elite Congruence in Canada: A Study of Federal Candidates." _Canadian Journal of Political Science_.
+- Ferland, Benjamin and **Jack Lucas**. Forthcoming. "[Mass-Elite Congruence in Canada: A Study of Federal Candidates](https://doi.org/10.1017/S0008423926101395)." _Canadian Journal of Political Science_.
 - Rivard, Alex B. and **Jack Lucas**. Forthcoming. "[Do Local Politicians Share Their Constituents’ Attitudes on Housing Policy?](https://doi.org/10.1016/j.cities.2026.107529)" _Cities_.
 - **Lucas, Jack**, Lior Sheffer, and Peter Loewen. 2025. "[Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians](https://link.springer.com/article/10.1007/s11109-024-09982-2)." _Political Behavior_ 47: 1113–1132. // [Data and Replication Files](https://doi.org/10.5683/SP3/OXPO3L), [Supplementary material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-024-09982-2/MediaObjects/11109_2024_9982_MOESM1_ESM.pdf), [Short Summary](https://theconversation.com/canadians-want-politicians-who-reflect-their-views-is-that-what-they-get-241331)
 - **Lucas, Jack** and Lior Sheffer. 2025. "[What Explains Elite Affective Polarization? Evidence from Canadian Politicians](https://doi.org/10.1111/pops.12974)." _Political Psychology_ 46 (1): 71-84.
