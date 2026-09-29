@@ -10,10 +10,6 @@ My research group is broadly focused on democracy and political representation i
 
 **Emerson Krause** (B.A., University of Michigan) is a Master's Thesis student at the University of Calgary. Emerson is interested in political behavior, particularly in the interaction between social identities such as partisanship and municipal identities, and the factors that strengthen them and their influence on issue values.
 
-<img class="profile-picture" src="mcmahon.png">
-
-**Dr. Nicole McMahon** is a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. For more information about Nicole's work, please visit [www.nicolefmcmahon.com](www.nicolefmcmahon.com). 
-
 <img class="profile-picture" src="mcpherson.jpeg">
 
 **Carter McPherson** is a Ph.D. candidate in the Department of Political Science at Simon Fraser University. His research focuses on municipal politics, policy knowledge, spatial voting, and political behaviour. He is also interested in experimental research methods, particularly field and survey experimental techniques in political science.
@@ -44,3 +40,6 @@ My research group is broadly focused on democracy and political representation i
 
 **Dr. Sarah Lachance** was a Postdoctoral Scholar affiliated with POLPOP-II, a comparative international study of regional and national elected representatives. Her research investigates questions related to political psychology and political behaviour in Canada and other democracies. She is particularly interested in voter and elite decision-making, as well as democratic representation. For more information about Sarah's work, please visit [https://sarahlachance.github.io](https://sarahlachance.github.io).
 
+<img class="profile-picture" src="mcmahon.png">
+
+**Dr. Nicole McMahon** was a Canadian Municipal Barometer Postdoctoral Scholar at the University of Calgary. Her research broadly focuses on Canadian politics, comparative public policy, and identity politics, with a particular emphasis on LGBTQ+ politics. Her work is published in _Governance_, _Party Politics_, _Politics, Groups and Identities_, _Representation_, _PS: Political Science & Politics_, and the _Canadian Journal of Political Science_. Dr. McMahon is now the Manager of Canada's Productivity Initiative at the University of Calgary School of Public Policy.
