@@ -38,7 +38,7 @@ My research group is broadly focused on democracy and political representation i
 
 <img class="profile-picture" src="lachance.jpg">
 
-**Dr. Sarah Lachance** was a Postdoctoral Scholar affiliated with POLPOP-II, a comparative international study of regional and national elected representatives. Her research investigates questions related to political psychology and political behaviour in Canada and other democracies. She is particularly interested in voter and elite decision-making, as well as democratic representation. For more information about Sarah's work, please visit [https://sarahlachance.github.io](https://sarahlachance.github.io).
+**Dr. Sarah Lachance** was a Postdoctoral Scholar affiliated with POLPOP-II, a comparative international study of regional and national elected representatives. Her research investigates questions related to political psychology and political behaviour in Canada and other democracies. She is particularly interested in voter and elite decision-making, as well as democratic representation. Dr. Lachance is now a Senior Consultant at Innovative Research Group.
 
 <img class="profile-picture" src="mcmahon.png">
 
