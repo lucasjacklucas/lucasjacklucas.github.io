@@ -23,7 +23,7 @@ layout: default
     <h2>Media</h2>
     <ul class="paper-links">
         {% for item in page.media %}
-        <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+        <li>{% if item.url %}<a href="{{ item.url }}">{{ item.label }}</a>{% else %}{{ item.label }}{% endif %}</li>
         {% endfor %}
     </ul>
     {% endif %}
