@@ -8,7 +8,7 @@ links:
   - label: "Data and Replication Files"
     url: "https://doi.org/10.7910/DVN/U3AFDM"
   - label: "Open-Access Preprint"
-    url: "/psrm_party_conjoint.pdf"
+    url: "/lucas2026b.pdf"
 media:
   - label: "The Globe and Mail (May 18, 2026): In most of Canada, municipal voters are not political party animals. How did that happen?"
     url: "https://www.theglobeandmail.com/opinion/article-in-most-of-canada-municipal-voters-are-not-political-party-animals-how/"
