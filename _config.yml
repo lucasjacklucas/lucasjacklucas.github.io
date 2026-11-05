@@ -10,6 +10,11 @@ footer: yes
 footer_url: "https://github.com/ojroques/hugo-researcher"
 footer_text: "By Jack Lucas. Based on Hugo Researcher"
 
+collections:
+  papers:
+    output: true
+    permalink: /papers/:name/
+
 sass:
     style: compressed
     sass_dir: _sass
@@ -18,12 +23,12 @@ nav:
  - name: "About"
    link: "https://lucasjacklucas.github.io"
  - name: "Publications"
-   link: "publications"
+   link: "/publications"
  - name: "Teaching"
-   link: "teaching"
+   link: "/teaching"
  - name: "Group"
-   link: "group"
+   link: "/group"
  - name: "Resources"
-   link: "resources"
+   link: "/resources"
  - name: "CV"
    link: "https://lucasjacklucas.github.io/cv.pdf"
