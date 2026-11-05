@@ -9,6 +9,11 @@ links:
     url: "https://doi.org/10.7910/DVN/U3AFDM"
   - label: "Open-Access Preprint"
     url: "/psrm_party_conjoint.pdf"
+media:
+  - label: "The Globe and Mail (May 18, 2026): In most of Canada, municipal voters are not political party animals. How did that happen?"
+    url: "https://www.theglobeandmail.com/opinion/article-in-most-of-canada-municipal-voters-are-not-political-party-animals-how/"
+  - label: "LiveWire Calgary (March 13, 2026): Candidates with municipal party affiliation suffered voter 'punishment' in 2025 Calgary election: Research"
+    url: "https://livewirecalgary.com/2026/03/13/candidates-with-municipal-party-affiliation-suffered-voter-punishment-in-2025-calgary-election-research/"
 ---
 
 How do citizens respond to institutional reform: through principled responses to the reform under consideration, or conditional reactions to the government responsible for introducing the reform? We study this question using the 2025 municipal election in Calgary, Canada, the first held after a provincial government imposed municipal political parties on a historically non-partisan system. Drawing on surveys fielded before and during the election, each embedding an identical candidate choice experiment, we combine causal forest estimation of heterogeneous treatment effects with observational vote choice models, tracing the party affiliation penalty from treatment effect estimates through to actual voting behavior. We find that voters imposed a penalty on partisan candidates, and that this penalty grew, rather than faded, over time. The partisan candidate penalty is highly uneven: it is concentrated among citizens with strong anti-partisan attitudes and among those with negative views of the provincial government that introduced the reform. Experimentally estimated propensities to punish partisan candidates predict actual vote intention in the election. These findings indicate that responses to local institutional reform rest on a foundation of principled commitment that cannot be reduced to partisan reaction, helping to explain why local non-partisan equilibria can be so difficult to dislodge.
