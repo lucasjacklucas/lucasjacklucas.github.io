@@ -6,8 +6,11 @@ layout: default
     <p class="paper-authors">{{ page.authors }}</p>
     <h2>Citation</h2>
     <p>{{ page.citation | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+    {% assign abstract_text = content | strip %}
+    {% if abstract_text != "" %}
     <h2>Abstract</h2>
     {{ content }}
+    {% endif %}
     {% if page.links %}
     <h2>Links</h2>
     <ul class="paper-links">
