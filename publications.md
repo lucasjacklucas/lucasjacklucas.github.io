@@ -56,18 +56,18 @@ layout: default
 ### Forthcoming
 
 - Borwein, Sophie, Jack Lucas, and Bradley Wood-MacLean. Forthcoming. "[Place Consciousness and Voting in Canada](/papers/borwein2026/)." _Canadian Journal of Political Science_{:.journal}.
-- Dias, Nicholas, Jack Lucas, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About the Distribution of Public Opinions Reduces Politicians' Perceptual Errors](/papers/dias2026/)." _Political Science Research and Methods._{:.journal} // [Data and Replication Files](https://doi.org/10.7910/DVN/QXWMDZ)
+- Dias, Nicholas, Jack Lucas, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About the Distribution of Public Opinions Reduces Politicians' Perceptual Errors](/papers/dias2026/)." _Political Science Research and Methods._{:.journal}
 - Ferland, Benjamin and Jack Lucas. Forthcoming. "[Mass-Elite Congruence in Canada: A Study of Federal Candidates](/papers/ferland2026/)." _Canadian Journal of Political Science_{:.journal}.
 - Lucas, Jack, Lior Sheffer, and Noam Titelman. Forthcoming. "[Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?](/papers/lucas2026c/)" _American Political Science Review_{:.journal}.
-- Lucas, Jack, R. Michael McGregor, Feodor Snagovsky, and Jared Wesley. Forthcoming. "[Do Municipal Voters Punish Partisan Candidates? Evidence from a Newly Partisan Municipal Election](/papers/lucas2026b/)." _Political Science Research and Methods_{:.journal}. // [Data and Replication Files](https://doi.org/10.7910/DVN/U3AFDM), [Open-Access Preprint](/lucas2026b.pdf)
+- Lucas, Jack, R. Michael McGregor, Feodor Snagovsky, and Jared Wesley. Forthcoming. "[Do Municipal Voters Punish Partisan Candidates? Evidence from a Newly Partisan Municipal Election](/papers/lucas2026b/)." _Political Science Research and Methods_{:.journal}.
 - Rivard, Alex B. and Jack Lucas. Forthcoming. "[Do Local Politicians Share Their Constituents’ Attitudes on Housing Policy?](/papers/rivard2026/)" _Cities_{:.journal}.
 - Vanhooren, Shanaya, Jack Lucas, and Sandra Breux. Forthcoming. "[Municipal Issue Publics](/papers/vanhooren2026/)." _Urban Affairs Review_{:.journal}. 
 
 ### 2026
 
-- Lucas, Jack, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. 2026. "[Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics](/papers/lucas2026a/)." _Nature Cities_{:.journal} 3 (6): 514-522. // [Data and Replication Files](https://doi.org/10.5683/SP3/RUEI42)
+- Hayes, Helen, R. Michael McGregor, Laura Stephenson, Jack Lucas, and Cameron D. Anderson. 2026. "[Understanding Public Support for Electoral Reform in Ontario, Canada](/papers/hayes2026/)." _Election Law Journal_{:.journal} 25 (1): 5-18.
+- Lucas, Jack, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. 2026. "[Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics](/papers/lucas2026a/)." _Nature Cities_{:.journal} 3 (6): 514-522.
 - Lucas, Jack. 2026. "[Institutional Change as Urban Theory: The Fall of At-Large Politics in Calgary, Alberta.](/papers/lucas2026d/)" _Urban History Review_{:.journal} 54(1): 37-53.
-- McGregor, R. Michael, Laura Stephenson, Helen Hayes, Cameron Anderson, and Jack Lucas. 2026. "[Understanding Public Support for Electoral Reform in Ontario, Canada](/papers/mcgregor2026/)." _Election Law Journal_{:.journal} 25 (1): 5-18.
 
 ### 2025
 
@@ -182,7 +182,7 @@ layout: default
 ## Political Representation and Elite Behaviour
 
 - Lucas, Jack, Lior Sheffer, and Noam Titelman. Forthcoming. "[Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?](/papers/lucas2026c/)" _American Political Science Review_{:.journal}. 
-- Dias, Nicholas, Jack Lucas, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About the Distribution of Public Opinions Reduces Politicians' Perceptual Errors](/papers/dias2026/)." _Political Science Research and Methods._{:.journal} // [Data and Replication Files](https://doi.org/10.7910/DVN/QXWMDZ)
+- Dias, Nicholas, Jack Lucas, and Lior Sheffer. Forthcoming. "[Beyond the Mean: How Thinking About the Distribution of Public Opinions Reduces Politicians' Perceptual Errors](/papers/dias2026/)." _Political Science Research and Methods._{:.journal}
 - Ferland, Benjamin and Jack Lucas. Forthcoming. "[Mass-Elite Congruence in Canada: A Study of Federal Candidates](/papers/ferland2026/)." _Canadian Journal of Political Science_{:.journal}.
 - Rivard, Alex B. and Jack Lucas. Forthcoming. "[Do Local Politicians Share Their Constituents’ Attitudes on Housing Policy?](/papers/rivard2026/)" _Cities_{:.journal}.
 - Lucas, Jack, Lior Sheffer, and Peter Loewen. 2025. "[Pathways to Political Representation: Congruence and Knowledge among Canadian Politicians](https://link.springer.com/article/10.1007/s11109-024-09982-2)." _Political Behavior_{:.journal} 47: 1113–1132. // [Data and Replication Files](https://doi.org/10.5683/SP3/OXPO3L), [Supplementary material](https://static-content.springer.com/esm/art%3A10.1007%2Fs11109-024-09982-2/MediaObjects/11109_2024_9982_MOESM1_ESM.pdf), [Short Summary](https://theconversation.com/canadians-want-politicians-who-reflect-their-views-is-that-what-they-get-241331)
@@ -213,7 +213,7 @@ layout: default
 ## Municipal Ideology / Policy Attitudes / Spatial Voting
 
 - Vanhooren, Shanaya, Jack Lucas, and Sandra Breux. Forthcoming. "[Municipal Issue Publics](/papers/vanhooren2026/)." _Urban Affairs Review_{:.journal}. 
-- Lucas, Jack, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. 2026. "[Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics](/papers/lucas2026a/)." _Nature Cities_{:.journal} 3 (6): 514-522. // [Data and Replication Files](https://doi.org/10.5683/SP3/RUEI42)
+- Lucas, Jack, Martin Horak, Shanaya Vanhooren, and David A. Armstrong II. 2026. "[Geographic Proximity Dampens Ideological Policy Disagreement in Urban Politics](/papers/lucas2026a/)." _Nature Cities_{:.journal} 3 (6): 514-522.
 - McPherson, Carter, Jack Lucas, and R. Michael McGregor. 2025. "[Issue Accountability in Non-Partisan Municipalities: A Case Study](https://doi.org/10.1177/10780874241270067)." _Urban Affairs Review_{:.journal}. 61 (3): 932–951.
 - Armstrong, David A. II, and Jack Lucas. 2024. "[The Structure of Municipal Voting in Vancouver](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2115377)." _Journal of Urban Affairs_{:.journal} 46 (7): 1412-1433.
 - Lucas, Jack. 2024. _[Ideology in Canadian Municipal Politics](https://utorontopress.com/9781487553692/ideology-in-canadian-municipal-politics/)_. Toronto: University of Toronto Press.
@@ -262,8 +262,8 @@ layout: default
 
 ## Municipal Elections and Voting
 
-- Lucas, Jack, R. Michael McGregor, Feodor Snagovsky, and Jared Wesley. Forthcoming. "[Do Municipal Voters Punish Partisan Candidates? Evidence from a Newly Partisan Municipal Election](/papers/lucas2026b/)." _Political Science Research and Methods_{:.journal}. // [Data and Replication Files](https://doi.org/10.7910/DVN/U3AFDM), [Open-Access Preprint](/lucas2026b.pdf)
-- McGregor, R. Michael, Laura Stephenson, Helen Hayes, Cameron Anderson, and Jack Lucas. 2026. "[Understanding Public Support for Electoral Reform in Ontario, Canada](/papers/mcgregor2026/)." _Election Law Journal_{:.journal} 25 (1): 5-18.
+- Lucas, Jack, R. Michael McGregor, Feodor Snagovsky, and Jared Wesley. Forthcoming. "[Do Municipal Voters Punish Partisan Candidates? Evidence from a Newly Partisan Municipal Election](/papers/lucas2026b/)." _Political Science Research and Methods_{:.journal}.
+- Hayes, Helen, R. Michael McGregor, Laura Stephenson, Jack Lucas, and Cameron D. Anderson. 2026. "[Understanding Public Support for Electoral Reform in Ontario, Canada](/papers/hayes2026/)." _Election Law Journal_{:.journal} 25 (1): 5-18.
 - Dillabough, Elliot and Jack Lucas. 2025. "[Municipal Politicians and Local Electoral Institutions in Canada: An Overview](https://doi.org/10.1111/capa.70006)." _Canadian Public Administration_{:.journal} 68 (1): 135-146.
 - Anderson, Cameron, Jack Lucas, and R. Michael McGregor. 2024. "[Urban home values and multi-level political accountability: Evidence from Calgary, Canada.](https://www.tandfonline.com/doi/full/10.1080/07352166.2022.2101922)" _Journal of Urban Affairs_{:.journal} 46(5): 1053-1069.
 - Artiles, Alexandra, Sandra Breux, Meagan Cloutier, Susan Franceschet, and Jack Lucas. 2024. "[Women's Representation in Canadian Municipalities](https://journals.sagepub.com/doi/10.1177/10780874241228558)." _Urban Affairs Review_{:.journal} 60 (5): 1577–1593.

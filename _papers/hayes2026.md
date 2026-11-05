@@ -1,8 +1,8 @@
 ---
 layout: paper
 title: "Understanding Public Support for Electoral Reform in Ontario, Canada"
-authors: "R. Michael McGregor, Laura Stephenson, Helen Hayes, Cameron Anderson, and Jack Lucas"
-citation: "McGregor, R. Michael, Laura Stephenson, Helen Hayes, Cameron Anderson, and Jack Lucas. 2026. \"Understanding Public Support for Electoral Reform in Ontario, Canada.\" _Election Law Journal_ 25 (1): 5-18."
+authors: "Helen Hayes, R. Michael McGregor, Laura Stephenson, Jack Lucas, and Cameron D. Anderson"
+citation: "Hayes, Helen, R. Michael McGregor, Laura Stephenson, Jack Lucas, and Cameron D. Anderson. 2026. \"Understanding Public Support for Electoral Reform in Ontario, Canada.\" _Election Law Journal_ 25 (1): 5-18."
 description: "In recent years, activist groups across Canada have advocated for electoral reforms at all levels of government, including changes to the electoral system, opportunities to cast ballots online, a reduction in the minimum voting age, and an extension of the voting franchise to long-time residents who are noncitizens."
 links:
   - label: "Publisher Page"
